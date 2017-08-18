@@ -1,0 +1,11 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+NA,"Dummy",http://www.ruter.no/,Europe/Oslo,no,,
+RB,"RuterBuss",http://www.ruter.no/,Europe/Oslo,no,,
+RF,"RuterBåt",http://www.ruter.no/,Europe/Oslo,no,,
+RS,"RuterTrikk",http://www.ruter.no/,Europe/Oslo,no,,
+RT,"RuterTBane",http://www.ruter.no/,Europe/Oslo,no,,
+BB,"Buss",http://www.ruter.no/,Europe/Oslo,no,,
+TT,"Tog",http://www.ruter.no/,Europe/Oslo,no,,
+FF,"Båt",http://www.ruter.no/,Europe/Oslo,no,,
+FT,"Flytog",http://www.ruter.no/,Europe/Oslo,no,,
+FB,"Flybuss",http://www.ruter.no/,Europe/Oslo,no,,

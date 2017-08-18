@@ -1,0 +1,18 @@
+<div *ngIf="!dataLoaded">
+    Loading
+</div>
+<div *ngIf="dataLoaded">
+    <h2>Depatures mot {{directionOne.name}}!</h2>
+
+    <div *ngFor="let current of directionOne.depatures; let i = index">
+        <h3>{{current}} (in {{getTimeToDep(current)}}min)</h3>
+    </div>
+
+    <br />
+
+
+    <h2>Depatures mot {{directionTwo.name}}!</h2>
+    <div *ngFor="let current of directionTwo.depatures; let i = index">
+        <h3>{{current}} (in {{getTimeToDep(current)}}min)</h3>
+    </div>
+</div>

@@ -1,0 +1,1851 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_color,route_text_color
+1,RT,"1","Helsfyr - Frognerseteren",1,,FFFFFF,000000
+2,RT,"2","Ellingsrudåsen - Østerås",1,,FFFFFF,000000
+3,RT,"3","Mortensrud - Kolsås",1,,FFFFFF,000000
+4,RT,"4","Bergkrystallen - Vestli",1,,FFFFFF,000000
+5,RT,"5","Vestli - Sognsvann",1,,FFFFFF,000000
+11,RS,"11","Kjelsås - Jernbanetorget/Majorstuen",0,,FFFFFF,000000
+12,RS,"12","Kjelsås - Majorstuen",0,,FFFFFF,000000
+13,RS,"13","Storo-Grefsen stasjon/Disen - Bekkestua",0,,FFFFFF,000000
+17,RS,"17","Holbergs plass - Rikshospitalet",0,,FFFFFF,000000
+18,RS,"18","Ljabru - Jernbanetorget/Bjørvika",0,,FFFFFF,000000
+19,RS,"19","Ljabru - Majorstuen",0,,FFFFFF,000000
+20,RB,"20","Galgeberg - Skøyen",3,,FFFFFF,000000
+21,RB,"21","Helsfyr T - Tjuvholmen",3,,FFFFFF,000000
+23,RB,"23","Simensbråten - Lysaker",3,,FFFFFF,000000
+24,RB,"24","Brynseng T - Fornebu",3,,FFFFFF,000000
+25,RB,"25","Lørenskog stasjon - Majorstuen",3,,FFFFFF,000000
+28,RB,"28","Helsfyr T - Fornebu",3,,FFFFFF,000000
+30,RB,"30","Nydalen - Bygdøy",3,,FFFFFF,000000
+31,RB,"31","Grorud T/Tonsenhagen - Snarøya/Fornebu",3,,FFFFFF,000000
+32,RB,"32","Kværnerbyen - Voksen skog",3,,FFFFFF,000000
+33,RB,"33","Ellingsrudåsen T - Filipstad",3,,FFFFFF,000000
+34,RB,"34","Ekeberg hageby - Tåsen",3,,FFFFFF,000000
+36,RB,"36E","Oslo bussterminal - Fornebu",3,,FFFFFF,000000
+37,RB,"37","Helsfyr - Nydalen T",3,,FFFFFF,000000
+41,RB,"41","Røa T - Sørkedalen",3,,FFFFFF,000000
+45,RB,"45","Majorstuen - Voksen skog",3,,FFFFFF,000000
+46,RB,"46","Majorstuen - Ullerntoppen",3,,FFFFFF,000000
+51,RB,"51","Nydalen T - Maridalen",3,,FFFFFF,000000
+54,RB,"54","Tjuvholmen - Kjelsås stasjon",3,,FFFFFF,000000
+56,RB,"56","Solemskogen - Nydalen",3,,FFFFFF,000000
+58,RB,"58","Tveita T - Nydalen",3,,FFFFFF,000000
+60,RB,"60","Tonsenhagen - Vippetangen",3,,FFFFFF,000000
+61,RB,"61A","Solfjellet - Tveita T",3,,FFFFFF,000000
+62,RB,"62","Grorud T- Grorud T ",3,,FFFFFF,000000
+63,RB,"63","Grorud T- Grorud T ",3,,FFFFFF,000000
+64,RB,"64A","Stovner T via Høybråten - Furuset T via Høybråten",3,,FFFFFF,000000
+65,RB,"65","Stovner T - Furuset T",3,,FFFFFF,000000
+66,RB,"66","Grorud T - Helsfyr T",3,,FFFFFF,000000
+67,RB,"67","Lørenskog sentrum - Økern T",3,,FFFFFF,000000
+68,RB,"68","Grorud T - Helsfyr T",3,,FFFFFF,000000
+69,RB,"69","Lutvann - Tveita T",3,,FFFFFF,000000
+70,RB,"70","Skullerud T - Rådhuset",3,,FFFFFF,000000
+71,RB,"71A","Bjørndal - Mortensrud T",3,,FFFFFF,000000
+72,RB,"72A","Dal - Mortensrud T",3,,FFFFFF,000000
+74,RB,"74","Mortensrud T - Jernbanetorget",3,,FFFFFF,000000
+75,RB,"75A","Nordstrand ring- Lambertseter T ",3,,FFFFFF,000000
+76,RB,"76","Hauketo stasjon - Helsfyr T",3,,FFFFFF,000000
+77,RB,"77","Bjørndal - Langteigåsen - Holmlia stasjon",3,,FFFFFF,000000
+78,RB,"78A","Østensjø ring- Bryn senter ",3,,FFFFFF,000000
+79,RB,"79","Åsbråten - Grorud T",3,,FFFFFF,000000
+81,RB,"81A","Greverud - Rådhuset",3,,FFFFFF,000000
+82,RB,"82E","Tårnåsen - Jernbanetorget",3,,FFFFFF,000000
+83,RB,"83","Tårnåsen - Rådhuset",3,,FFFFFF,000000
+84,RB,"84E","Myrvoll stasjon - Jernbanetorget",3,,FFFFFF,000000
+85,RB,"85","Ulvøya - Jernbanetorget",3,,FFFFFF,000000
+86,RB,"86","Kolbotn - Kolbotn",3,,FFFFFF,000000
+130,RB,"130","Skøyen - Sandvika",3,,FFFFFF,000000
+140,RB,"140","Skøyen - Bekkestua",3,,FFFFFF,000000
+150,RB,"150","Oslo bussterminal - Gullhaug",3,,FFFFFF,000000
+160,RB,"160","Oslo bussterminal - Rykkinn",3,,FFFFFF,000000
+201,RB,"201","Sandvika-Jong - Sandvika bussterminal",3,,FFFFFF,000000
+202,RB,"202","Tanum-Sandvika-Henie O. - Tanum-Sandvika-Henie O.",3,,FFFFFF,000000
+203,RB,"203","Sandvika-Skui - Sandvika-Skui",3,,FFFFFF,000000
+204,RB,"204","Sandvika-Rykkinn-Kolsås - Sandvika-Rykkinn-Kolsås",3,,FFFFFF,000000
+205,RB,"205","Ullevål stadion - Sandvika bussterminal",3,,FFFFFF,000000
+210,RB,"210","Sandvika - Bykrysset",3,,FFFFFF,000000
+211,RB,"211","Bekkestua-Sandvika - Bekkestua-Sandvika",3,,FFFFFF,000000
+212,RB,"212","Bekkestua-Østerås - Bekkestua-Østerås",3,,FFFFFF,000000
+213,RB,"213","Bekkestua-Høvik - Bekkestua-Høvik",3,,FFFFFF,000000
+214,RB,"214","Bekkestua-Ekern - Bekkestua-Ekern",3,,FFFFFF,000000
+215,RB,"215","Sandvika - Kolsås",3,,FFFFFF,000000
+216,RB,"216","Bekkestua-Kleivveien - Bekkestua-Kleivveien",3,,FFFFFF,000000
+217,RB,"217","Lommedalen - Bjerkefeltet",3,,FFFFFF,000000
+220,RB,"220","Bekkestua - Sandvika",3,,FFFFFF,000000
+225,RB,"225","Fornebu - Bekkestua",3,,FFFFFF,000000
+230,RB,"230","Østerås - Sandvika",3,,FFFFFF,000000
+235,RB,"235","Østerås T - Østerås T",3,,FFFFFF,000000
+240,RB,"240","Sandvika - Skui",3,,FFFFFF,000000
+245,RB,"245","Sandvika - Tanum",3,,FFFFFF,000000
+250,RB,"250","Oslo bussterminal - Slemmestad",3,,FFFFFF,000000
+260,RB,"260","Ullevål stadion - Røyken",3,,FFFFFF,000000
+265,RB,"265","Sandvika - Sandvika bussterminal",3,,FFFFFF,000000
+270,RB,"270","Sandvika - Asker",3,,FFFFFF,000000
+275,RB,"275","Vøyen - Asker",3,,FFFFFF,000000
+280,RB,"280","Asker - Rustadgrenda",3,,FFFFFF,000000
+285,RB,"285","Blakstad - Asker",3,,FFFFFF,000000
+290,RB,"290","Blakstad - Borgen",3,,FFFFFF,000000
+291,RB,"291","Ånnerud-Vardåsen - Asker stasjon ",3,,FFFFFF,000000
+292,RB,"292","Bondi-Blakstad-Bleikerkollen - Asker stasjon ",3,,FFFFFF,000000
+293,RB,"293","Leangkollen-Konglungen - Asker stasjon ",3,,FFFFFF,000000
+294,RB,"294","Asker-Borgen - Asker stasjon ",3,,FFFFFF,000000
+295,RB,"295","Guibekken-Vollen - Guibekken-Vollen",3,,FFFFFF,000000
+296,RB,"296","Asker-Slemmestad - Asker stasjon ",3,,FFFFFF,000000
+297,RB,"297","Asker-Høn-Undelstad - Asker stasjon ",3,,FFFFFF,000000
+298,RB,"298","Vettre-Konglungen - Vettre-Konglungen",3,,FFFFFF,000000
+301,RB,"301","Oslo bussterminal - Kongskog/Hellerudhaugen",3,,FFFFFF,000000
+302,RB,"302","Oslo bussterminal - Hellerudhaugen",3,,FFFFFF,000000
+309,RB,"309","Jernbanetorget - Kongskog",3,,FFFFFF,000000
+321,RB,"321","Oslo bussterminal - Lillestrøm",3,,FFFFFF,000000
+331,RB,"331","Oslo bussterminal - Oslo Lufthavn via Veståsen-Elt/Veståsen skole",3,,FFFFFF,000000
+332,RB,"332","Oslo bussterminal - Eltonåsen",3,,FFFFFF,000000
+339,RB,"339","Eltonåsen - Eltonåsen",3,,FFFFFF,000000
+345,RB,"345","Blindern/Skedsmokorset - Vardefjellet",3,,FFFFFF,000000
+352,RB,"352","Helsfyr T - Kløfta",3,,FFFFFF,000000
+361,RB,"361","Grorud T - Guldhaug-Tømte",3,,FFFFFF,000000
+363,RB,"363","Blindern - Guldhaug-Tømte",3,,FFFFFF,000000
+385,RB,"385","Lørenskog sentrum - Nittedal",3,,FFFFFF,000000
+401,RB,"401","Oslo bussterminal - Kjeller",3,,FFFFFF,000000
+409,RB,"409","Olavsgaard - Lillestrøm",3,,FFFFFF,000000
+411,RB,"411","Oslo bussterminal - Lillestrøm",3,,FFFFFF,000000
+412,RB,"412","Oslo bussterminal - Vallerudtoppen",3,,FFFFFF,000000
+415,RB,"415","Oslo bussterminal - Nesåsen/Triaden",3,,FFFFFF,000000
+417,RB,"417","Oslo bussterminal - Ahus",3,,FFFFFF,000000
+418,RB,"418","Oslo bussterminal - Blystadlia",3,,FFFFFF,000000
+419,RB,"419","Visperud - Lillestrøm",3,,FFFFFF,000000
+421,RB,"421","Oslo bussterminal - Strømmen stasjon",3,,FFFFFF,000000
+422,RB,"422","Oslo bussterminal - Vestvollen",3,,FFFFFF,000000
+423,RB,"423","Helsfyr - Olavsgaard via Plantasjen",3,,FFFFFF,000000
+431,RB,"431","Oslo bussterminal - Kjeller",3,,FFFFFF,000000
+435,RB,"435","Blindern - Lillestrøm",3,,FFFFFF,000000
+476,RB,"476","Oslo bussterminal - Trøgstad",3,,FFFFFF,000000
+482,RB,"482","Oslo bussterminal - Eidslia",3,,FFFFFF,000000
+486,RB,"486","Oslo bussterminal - Bjørkelangen",3,,FFFFFF,000000
+492,RB,"492","Oslo bussterminal - Fjerdingby",3,,FFFFFF,000000
+499,RB,"499","Jernbanetorget - Lillestrøm",3,,FFFFFF,000000
+500,RB,"500","Oslo - Drøbak",3,,FFFFFF,000000
+506,RB,"506","Frogn vgs - Klommestein",3,,FFFFFF,000000
+507,RB,"507","Dyrløkke - Elle",3,,FFFFFF,000000
+510,RB,"510","Drøbak - Bøleråsen",3,,FFFFFF,000000
+511,RB,"511","Ski stasjon - Stenfeltlia",3,,FFFFFF,000000
+512,RB,"512","Ski stasjon - Ski terminal",3,,FFFFFF,000000
+513,RB,"513","Ski stasjon - Greverud",3,,FFFFFF,000000
+515,RB,"515","Ski stasjon - Ryen",3,,FFFFFF,000000
+516,RB,"516","Vevelstad stasjon - Siggerud",3,,FFFFFF,000000
+517,RB,"517","Ski stasjon - Siggerud",3,,FFFFFF,000000
+520,RB,"520","Ski skole - Vinterbro",3,,FFFFFF,000000
+521,RB,"521","Ski skole - TusenFryd",3,,FFFFFF,000000
+522,RB,"522","Ski stasjon - Ski terminal",3,,FFFFFF,000000
+523,RB,"523","Ski stasjon - Kjærnes",3,,FFFFFF,000000
+524,RB,"524","Ski stasjon - Ås stasjon",3,,FFFFFF,000000
+525,RB,"525","Ski stasjon - Kråkstad",3,,FFFFFF,000000
+526,RB,"526","Ellingsrudlia-Ski stasjon - Ski terminal",3,,FFFFFF,000000
+527,RB,"527","Ski stasjon - Skotbu",3,,FFFFFF,000000
+530,RB,"530","Vestby stasjon - Pepperstad skog",3,,FFFFFF,000000
+531,RB,"531","Hvitsten-Vestby stasjon - Hvitsten-Vestby stasjon",3,,FFFFFF,000000
+532,RB,"532","Kjenn-Garder-Vestby stasjon - Vestby stasjon ",3,,FFFFFF,000000
+535,RB,"535","Ås stasjon - Garder kirke",3,,FFFFFF,000000
+536,RB,"536","Ås stasjon - Dyster/Eldor",3,,FFFFFF,000000
+540,RB,"540","Sonsveien st. - Moss",3,,FFFFFF,000000
+545,RB,"545","Vestby stasjon - Son",3,,FFFFFF,000000
+550,RB,"550","Oslo - Lillestrøm",3,,FFFFFF,000000
+551,RB,"551","Dalefjerdingen - Enebakk kirke",3,,FFFFFF,000000
+555,RB,"555","Ski stasjon - Tangen bru",3,,FFFFFF,000000
+560,RB,"560","Nesoddtangen - Nesoddtangen",3,,FFFFFF,000000
+565,RB,"565","Nesoddtangen - Hellvik-Myklerud/Hellvik",3,,FFFFFF,000000
+570,RB,"570","Nesoddtangen - Vinterbro",3,,FFFFFF,000000
+575,RB,"575","Nesoddtangen - Fagerstrand",3,,FFFFFF,000000
+576,RB,"576","Vinterbro - Fagerstrand",3,,FFFFFF,000000
+801,RB,"801","Skillebekk - Nittedal stasjon",3,,FFFFFF,000000
+802,RB,"802","Skillebekk - Slattum",3,,FFFFFF,000000
+803,RB,"803","Dam - Nittedal stasjon",3,,FFFFFF,000000
+811,RB,"811","Dølihagan - Sundet/Eidsvoll stasjon",3,,FFFFFF,000000
+815,RB,"815","Oslo Lufthavn - Erikstellet via Hurdal",3,,FFFFFF,000000
+816,RB,"816","Eidsvoll stasjon - Gullverket-Finsbråten",3,,FFFFFF,000000
+818,RB,"818","Oslo Lufthavn via Sand - Nordkisa",3,,FFFFFF,000000
+821,RB,"821","Årnes stasjon - Frilset",3,,FFFFFF,000000
+823,RB,"823","Eidsvoll stasjon - Råholt senter parkering/Eidsvoll stasjon",3,,FFFFFF,000000
+825,RB,"825","Sagasenteret - Bøn sykehjem",3,,FFFFFF,000000
+831,RB,"831","Kløfta stasjon - Herbergåsen",3,,FFFFFF,000000
+833,RB,"833","Årnes stasjon - Dysterud",3,,FFFFFF,000000
+834,RB,"834","Årnes stasjon - Årnes stasjon",3,,FFFFFF,000000
+835,RB,"835","Runni us via Årnes stasjon/Årnes stasjon - Rånåsfoss stasjon/Auli",3,,FFFFFF,000000
+836,RB,"836","Rånåsfoss stasjon - Årnes stasjon",3,,FFFFFF,000000
+838,RB,"838","Oslo Lufthavn - Årnes stasjon",3,,FFFFFF,000000
+841,RB,"841","Lillestrøm - Garderåsen",3,,FFFFFF,000000
+842,RB,"842","Lillestrøm - Skedsmokorset",3,,FFFFFF,000000
+843,RB,"843","Lillestrøm - Branderud",3,,FFFFFF,000000
+845,RB,"845","Lillestrøm - Sørumsand stasjon/Vardefjellet",3,,FFFFFF,000000
+846,RB,"846","Sørumsand stasjon - Orredalen",3,,FFFFFF,000000
+847,RB,"847","Ask terminal - Nitteberg",3,,FFFFFF,000000
+848,RB,"848","Eltonåsen - Nannestad",3,,FFFFFF,000000
+851,RB,"851","Oslo lufthavn - Kløfta stasjon/Ask terminal",3,,FFFFFF,000000
+855,RB,"855","Jessheim/Oslo Lufthavn - Maura",3,,FFFFFF,000000
+872,RB,"872","Vallerudtoppen - Lillestrøm",3,,FFFFFF,000000
+875,RB,"875","Lillestrøm - Trøgstad",3,,FFFFFF,000000
+881,RB,"881","Lillestrøm - Bjørkelangen",3,,FFFFFF,000000
+883,RB,"883","Lillestrøm - Bjørkelangen/Løken terrasse",3,,FFFFFF,000000
+884,RB,"884","Sørumsand stasjon - Sørumsand stasjon",3,,FFFFFF,000000
+885,RB,"885","Bjørkelangen - Hemnes",3,,FFFFFF,000000
+1001,BB,"R1","Halden bussterminal - Halden bussterminal",3,,FFFFFF,000000
+1002,BB,"R2","Halden bussterminal - Halden bussterminal",3,,FFFFFF,000000
+1003,BB,"T3","Oslo bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1006,BB,"T6","Skjærhalden - Oslo bussterminal",3,,FFFFFF,000000
+1009,BB,"T9","Oslo bussterminal - Ramstadkrysset",3,,FFFFFF,000000
+1100,BB,"100","Moss bussterminal - Halden bussterminal",3,,FFFFFF,000000
+1110,BB,"110","Ingerfjellveien - Halden bussterminal",3,,FFFFFF,000000
+1150,BB,"150","Sykehuset Østfold Kalnes - Halden bussterminal",3,,FFFFFF,000000
+1200,BB,"200","Fred.stad 109 - Sarpsborg 109",3,,FFFFFF,000000
+1201,BB,"201","Bergli Skjeberg - Sarpsborg bussterminal",3,,FFFFFF,000000
+1202,BB,"202","Hasle snuplass - Sarpsborg bussterminal",3,,FFFFFF,000000
+1203,BB,"203","Ise stasjon snuplass - Sarpsborg bussterminal",3,,FFFFFF,000000
+1204,BB,"204","Sarpsborg/Sarpsborg bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1205,BB,"205","Fredrikstad sentrum - Sarpsborg bussterminal",3,,FFFFFF,000000
+1207,BB,"207","Ise stasjon - Sarpsborg bussterminal",3,,FFFFFF,000000
+1208,BB,"208","Sarpsborg bussterminal/Sarpsborg - Sarpsborg bussterminal",3,,FFFFFF,000000
+1211,BB,"211","Råde stasjon - Kvastebyen",3,,FFFFFF,000000
+1212,BB,"212","Løkkevika snuplass - Sarpsborg bussterminal",3,,FFFFFF,000000
+1213,BB,"213","Syverstad - Sandbakken skole/Sarpsborg bussterminal",3,,FFFFFF,000000
+1215,BB,"215","Sykehuset Østfold Kalnes - Blessom snuplass",3,,FFFFFF,000000
+1301,BB,"301","Vikerkilen - Fredrikstad stasjon",3,,FFFFFF,000000
+1302,BB,"302","Vikane - Fredrikstad stasjon",3,,FFFFFF,000000
+1303,BB,"303","Rødstoppen - Fredrikstad stasjon",3,,FFFFFF,000000
+1305,BB,"305","Torpekrysset - Fredrikstad sentrum",3,,FFFFFF,000000
+1316,BB,"316","Råde ungdomsskole/Moss bussterminal - Greåker vgs./Karlshus Råde",3,,FFFFFF,000000
+1350,BB,"350","Gluppe/Riisløkka-Gluppe - Gluppe",3,,FFFFFF,000000
+1351,BB,"351","Veum sykehus - Fredrikstad sentrum",3,,FFFFFF,000000
+1353,BB,"353","Oredalen Sandbækveien - Oredalen Sandbækveien",3,,FFFFFF,000000
+1355,BB,"355","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1356,BB,"356","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1357,BB,"357","Skjærviken snuplass - Fredrikstad bussterminal",3,,FFFFFF,000000
+1358,BB,"358","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1359,BB,"359","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1361,BB,"361","Moum - Fredrikstad bussterminal",3,,FFFFFF,000000
+1362,BB,"362","Torsnes - Fredrikstad bussterminal",3,,FFFFFF,000000
+1363,BB,"363","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1364,BB,"364","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1365,BB,"365","Skjærhalden - Skjærhalden",3,,FFFFFF,000000
+1366,BB,"366","Utgårdskilen - Bratte Bakke",3,,FFFFFF,000000
+1372,BB,"372","Fredrikstad bussterminal - Skjæløy/Engelsviken-Lervik",3,,FFFFFF,000000
+1373,BB,"373","Fredrikstad bussterminal - Engelsviken-Tomb",3,,FFFFFF,000000
+1380,BB,"380","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1381,BB,"381","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1385,BB,"385","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1386,BB,"386","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1387,BB,"387","Fredrikstad sentrum/Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1390,BB,"390","Holmen/Årumgården - Fredrikstad bussterminal",3,,FFFFFF,000000
+1391,BB,"391","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1392,BB,"392","Fredrikstad bussterminal - Fredrikstad bussterminal",3,,FFFFFF,000000
+1400,BB,"400","Sarpsborg bussterminal/Moss bussterminal - Rokke-Halden/Sarpsborg bussterminal",3,,FFFFFF,000000
+1403,BB,"403","Larkollen Sørli - Moss bussterminal",3,,FFFFFF,000000
+1404,BB,"404","Gaustadkrysset - Moss bussterminal",3,,FFFFFF,000000
+1406,BB,"406","Husebyskogen - Moss bussterminal",3,,FFFFFF,000000
+1408,BB,"408","Nes camping - Moss bussterminal",3,,FFFFFF,000000
+1410,BB,"M1","Øreåsen - Refsnes",3,,FFFFFF,000000
+1414,BB,"414","Moss bussterminal - Moss bussterminal",3,,FFFFFF,000000
+1415,BB,"415","Tronvik - Moss bussterminal",3,,FFFFFF,000000
+1416,BB,"416","Moss bussterminal - Moss bussterminal",3,,FFFFFF,000000
+1420,BB,"M2","Øreåsen - Kambo Kulpeveien",3,,FFFFFF,000000
+1455,BB,"455","Skjønhaug Torv - Askim jernbanestasjon/Askim posthus",3,,FFFFFF,000000
+1456,BB,"456","Skjønhaug Torv - Mysen jb.st",3,,FFFFFF,000000
+1457,BB,"457","Risbråthekrysset/Skjønhaug Torv - Skjønhaug Torv",3,,FFFFFF,000000
+1459,BB,"459","Solbergfoss - Askim jernbanestasjon",3,,FFFFFF,000000
+1460,BB,"460","Askim posthus - Askim posthus",3,,FFFFFF,000000
+1461,BB,"461","Askim posthus - Askim posthus",3,,FFFFFF,000000
+1465,BB,"465","Skiptvet-Askim-Mysen stasjon - Rakkestad-Mysen stasjon",3,,FFFFFF,000000
+1467,BB,"467","Vestgård skole/Stuputveikrysset - Askim jernbanestasjon",3,,FFFFFF,000000
+1468,BB,"468","Lund/Spydeberg torv - Askim jernbanestasjon",3,,FFFFFF,000000
+1469,BB,"469","Askim stasjon - Askim stasjon",3,,FFFFFF,000000
+1471,BB,"471","Svikebøl - Spydeberg torv",3,,FFFFFF,000000
+1472,BB,"472","Delet - Spydeberg torv",3,,FFFFFF,000000
+1473,BB,"473","Moss bussterminal - Askim stasjon",3,,FFFFFF,000000
+1474,BB,"474","Svikebøl/Mysen vgs. - Mysen vgs/Knapstad bedehus",3,,FFFFFF,000000
+1480,BB,"480","Askim posthus - Askim stasjon",3,,FFFFFF,000000
+1481,BB,"481","Mysen stasjon - Askim jernbanestasjon",3,,FFFFFF,000000
+1482,BB,"482","Mysen stasjon - Torggata",3,,FFFFFF,000000
+1483,BB,"483","Folkenborgveien - Mysen stasjon",3,,FFFFFF,000000
+1486,BB,"486","Mysen jb.st - Rakkestad stasjon",3,,FFFFFF,000000
+1489,BB,"489","Rakkestad jb.st. - Askim stasjon",3,,FFFFFF,000000
+1491,BB,"491","Rakkestad jb.st. - Rakkestad stasjon",3,,FFFFFF,000000
+1493,BB,"493","Mysen vgs - Kirkeng skole/Holene bru",3,,FFFFFF,000000
+1563,BB,"563","Folkenborgveien - Ørje busstorg",3,,FFFFFF,000000
+1580,BB,"580","Gjerstad - Moss bussterminal",3,,FFFFFF,000000
+1700,BB,"2300","Sarpsborg bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1771,BB,"2371","Sarpsborg bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1781,BB,"2381","Øvre Tune - Sarpsborg bussterminal",3,,FFFFFF,000000
+1803,BB,"2403","Sarpsborg - Sarpsborg bussterminal",3,,FFFFFF,000000
+1820,BB,"2420","Sarpsborg bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1830,BB,"2430","Sarpsborg/Råkil - Sarpsborg bussterminal",3,,FFFFFF,000000
+1844,BB,"2444","Sarpsborg bussterminal - Sarpsborg bussterminal",3,,FFFFFF,000000
+1850,BB,"2450","Fredrikstad stasjon/Sarpsborg bussterminal - Fredrikstad stasjon/Sarpsborg bussterminal",3,,FFFFFF,000000
+1860,BB,"2460","Fredrikstad stasjon - Sykehuset Østfold Kalnes",3,,FFFFFF,000000
+1870,BB,"2470","Inspiria Science Center - Rødåsen",3,,FFFFFF,000000
+1880,BB,"2480","Sykehuset Østfold Kalnes - Vaterland snuplass",3,,FFFFFF,000000
+1890,BB,"2490","Inspiria Science Center - Langøyåsen snuplass",3,,FFFFFF,000000
+2015,RB,"2015","Landøya - Nesøya/Landøya",3,,FFFFFF,000000
+2018,RB,"2018","Torstad skole - Torstad skole",3,,FFFFFF,000000
+2019,RB,"2019","Sætre terrasse - Heggedal skole",3,,FFFFFF,000000
+2031,RB,"31E","Tonsenhagen - Fornebu",3,,FFFFFF,000000
+2056,RB,"56B","Grefsenkollen - Nydalen",3,,FFFFFF,000000
+2061,RB,"61B","Bøler T - Tveita T",3,,FFFFFF,000000
+2064,RB,"64B","Stovner T via Haugenstua - Furuset T via Haugenstua",3,,FFFFFF,000000
+2069,RB,"69B","Tveita ring- Tveita T ",3,,FFFFFF,000000
+2071,RB,"71B","Seterbråten - Mortensrud T",3,,FFFFFF,000000
+2072,RB,"72B","Brenna - Mortensrud T",3,,FFFFFF,000000
+2075,RB,"75B","Nordstrand ring- Lambertseter T ",3,,FFFFFF,000000
+2077,RB,"77B","Asperudåsen - Holmlia stasjon",3,,FFFFFF,000000
+2078,RB,"78B","Østensjø ring- Bryn senter ",3,,FFFFFF,000000
+2080,RB,"80E","Åsbråten - Rådhuset",3,,FFFFFF,000000
+2081,RB,"81B","Ødegården - Rådhuset",3,,FFFFFF,000000
+2131,RB,"2131","Aursmoen skole - Haneborg skole/Mokroken",3,,FFFFFF,000000
+2132,RB,"2132","Haneborg skole - Haneborg skole",3,,FFFFFF,000000
+2133,RB,"2133","Korsmo - Korsmo",3,,FFFFFF,000000
+2134,RB,"2134","Haneborg skole - Ulviken/Hedum",3,,FFFFFF,000000
+2135,RB,"2135","Bjørkelangen vgs - Mokroken",3,,FFFFFF,000000
+2137,RB,"2137","Bjørkelangen skole - Korsmo",3,,FFFFFF,000000
+2138,RB,"2138","Bjørkelangen vgs - Trosterud",3,,FFFFFF,000000
+2139,RB,"2139","Bjørkelangen skole - Bjørkelangen terminal",3,,FFFFFF,000000
+2140,RB,"2140","Liermosen - Liermosen/Spillhaug",3,,FFFFFF,000000
+2141,RB,"2141","Løken - Løken/Bjørkelangen",3,,FFFFFF,000000
+2142,RB,"2142","Løken - Nærby-Løken",3,,FFFFFF,000000
+2143,RB,"2143","Bråte skole - Løken",3,,FFFFFF,000000
+2144,RB,"2144","Bråte skole - Løken/Fosser",3,,FFFFFF,000000
+2145,RB,"2145","Bråte skole - Stigen",3,,FFFFFF,000000
+2146,RB,"2146","Bjørkelangen - Bjørkelangen",3,,FFFFFF,000000
+2147,RB,"2147","Grasåsen - Grasåsen",3,,FFFFFF,000000
+2148,RB,"2148","Bråte skole - Studsrud",3,,FFFFFF,000000
+2151,RB,"2151","Setskog skole - Skjeggenes",3,,FFFFFF,000000
+2160,RB,"160E","Nationaltheatret - Rykkinn",3,,FFFFFF,000000
+2171,RB,"2171","Bjørkelangen vgs - Garderåsen",3,,FFFFFF,000000
+2172,RB,"2172","Bråte skole/Løken - Basmo",3,,FFFFFF,000000
+2173,RB,"2173","Bjørkelangen - Killingmo/Sørumsand",3,,FFFFFF,000000
+2174,RB,"2174","Bjørkelangen - Studsrud",3,,FFFFFF,000000
+2175,RB,"2175","Løken-Stensrud-Krokedal - Bjørkelangen",3,,FFFFFF,000000
+2250,RB,"250E","Oslo bussterminal - Slemmestad",3,,FFFFFF,000000
+2255,RB,"255E","Oslo bussterminal - Sætre",3,,FFFFFF,000000
+2265,RB,"265E","Oslo bussterminal - Nesøya",3,,FFFFFF,000000
+2500,RB,"500E","Oslo- Drøbak ",3,,FFFFFF,000000
+2521,RB,"521X","Ski stasjon - TusenFryd",3,,FFFFFF,000000
+2590,RB,"N590","Strømbråtenveien - Son",3,,FFFFFF,000000
+2631,RB,"2631","Lørenfallet/Sørumsand stasjon- Sørum skole ",3,,FFFFFF,000000
+2632,RB,"2632","Haugtun skole - Haugtun skole",3,,FFFFFF,000000
+2633,RB,"2633","Sørumsand stasjon - Sandnesvegen",3,,FFFFFF,000000
+2634,RB,"2634","Sørumsand stasjon - Hellne/Sørumsand stasjon",3,,FFFFFF,000000
+2635,RB,"2635","Sørumsand stasjon - Sørumsand stasjon/Sandnesvegen",3,,FFFFFF,000000
+2636,RB,"2636","Mork - Mork",3,,FFFFFF,000000
+2639,RB,"2639","Frogner skole - Vardefjellet",3,,FFFFFF,000000
+2640,RB,"2640","Frogner skole - Vesterskaun skole",3,,FFFFFF,000000
+2642,RB,"2642","Sørumsand stasjon - Lørenfallet/Ormstad",3,,FFFFFF,000000
+2671,RB,"2671","Sørumsand stasjon- Sundet ",3,,FFFFFF,000000
+2672,RB,"2672","Sørumsand- Årnes stasjon ",3,,FFFFFF,000000
+2673,RB,"2673","Sørumsand - Bjørkelangen",3,,FFFFFF,000000
+2731,RB,"2731","Riddersand skole/Sundet - Garderåsen/Borgen-Jølsen",3,,FFFFFF,000000
+2732,RB,"2732","Riddersand skole - Tofsrud",3,,FFFFFF,000000
+2733,RB,"2733","Dalen skole - Råmyra-Stigen",3,,FFFFFF,000000
+2734,RB,"2734","Sundet - Krokedal",3,,FFFFFF,000000
+2840,RB,"140E","Nationaltheatret - Hosle",3,,FFFFFF,000000
+2850,RB,"150E","Nationaltheatret - Gullhaug",3,,FFFFFF,000000
+2871,RB,"2871","Rælingen vgs - Ask",3,,FFFFFF,000000
+2872,RB,"2872","Rælingen vgs - Blystadlia",3,,FFFFFF,000000
+2873,RB,"2873","Rælingen vgs - Ahus/Røykåsveien",3,,FFFFFF,000000
+2931,RB,"2931","Dalefjerdingen - Enebakk kirke",3,,FFFFFF,000000
+2932,RB,"2932","Enebakk kirke - Ekebergdalen",3,,FFFFFF,000000
+2972,RB,"872x","Fjellsrud skole - Solvangveien",3,,FFFFFF,000000
+2977,RB,"77C","Krummedike - Holmlia stasjon",3,,FFFFFF,000000
+3017,RB,"17B","Jernbanetorget - Holbergs plass",3,,FFFFFF,000000
+3071,RB,"3071","Lørenskog sentrum - Lørenskog sentrum",3,,FFFFFF,000000
+3072,RB,"72C","Maikollen - Mortensrud T",3,,FFFFFF,000000
+3073,RB,"3073","Knatten - Vallerudtoppen",3,,FFFFFF,000000
+3075,RB,"75C","Lambertseter ring- Lambertseter T ",3,,FFFFFF,000000
+3077,RB,"77X","Bjørndal - Hauketo stasjon",3,,FFFFFF,000000
+3130,RB,"N130","Oslo bussterminal - Skui",3,,FFFFFF,000000
+3131,RB,"3131","Tærudhallen - Vardeåsen",3,,FFFFFF,000000
+3132,RB,"3132","Solberg - Åsenhagen skole",3,,FFFFFF,000000
+3140,RB,"N140","Oslo bussterminal - Hosle",3,,FFFFFF,000000
+3150,RB,"N150","Oslo bussterminal - Gullhaug",3,,FFFFFF,000000
+3160,RB,"N160","Oslo bussterminal - Bykrysset via Rykkinn",3,,FFFFFF,000000
+3172,RB,"3172","Lillestrøm terminal/Skedmo vgs - Rotnes/Hellerudhaugen",3,,FFFFFF,000000
+3175,RB,"3175","Lillestrøm/Rælingen vgs - Lørenfallet",3,,FFFFFF,000000
+3176,RB,"3176","Skedsmo vgs- Rolvsrud ",3,,FFFFFF,000000
+3250,RB,"N250","Oslo bussterminal - Sætre via Asker",3,,FFFFFF,000000
+3331,RB,"3331","Li skole - Velhuset",3,,FFFFFF,000000
+3333,RB,"3333","Kirkeby skole - Dam/Hellerudhaugen",3,,FFFFFF,000000
+3334,RB,"3334","Kongskog- Åneby ",3,,FFFFFF,000000
+3335,RB,"3335","Kongskog - Bjertnes vgs",3,,FFFFFF,000000
+3371,RB,"3371","Bjertnes vgs - Lillestrøm",3,,FFFFFF,000000
+3372,RB,"3372","Bjertnes vgs - Åneby",3,,FFFFFF,000000
+3373,RB,"3373","Dam - Skillebekk/Velhuset",3,,FFFFFF,000000
+3374,RB,"3374","Bjertnes vgs - Åsenhagen",3,,FFFFFF,000000
+3431,RB,"3431","Ask terminal - Gjerdrum u. skole",3,,FFFFFF,000000
+3500,RB,"500X","Oslo - TusenFryd",3,,FFFFFF,000000
+3531,RB,"3531","Algarheim skole - Støverud-Onsrud",3,,FFFFFF,000000
+3532,RB,"3532","Nye Nordkisa skole - Dagsjøveien",3,,FFFFFF,000000
+3533,RB,"3533","Vesong us. - Borgen",3,,FFFFFF,000000
+3534,RB,"3534","Borgen skole - Dragvoll",3,,FFFFFF,000000
+3535,RB,"3535","Gystadmarka skole/Mogreina skole - Herregårdshuset sykehjem",3,,FFFFFF,000000
+3537,RB,"3537","Kløfta-Åreppen skole - Gamleveien",3,,FFFFFF,000000
+3538,RB,"3538","Jessheim-Nannestad vgs. - Jessheim-Nannestad vgs.",3,,FFFFFF,000000
+3541,RB,"3541","Krokfoss - Krokfoss/Hannestad",3,,FFFFFF,000000
+3542,RB,"3542","Gystadmarka skole - Algarheim skole",3,,FFFFFF,000000
+3571,RB,"3571","Jessheim vgs. - Rønnegrinda",3,,FFFFFF,000000
+3573,RB,"3573","Bekkebakken - Eidsvoll stasjon",3,,FFFFFF,000000
+3574,RB,"3574","Jessheim vgs. - Nybakk",3,,FFFFFF,000000
+3575,RB,"3575","Jessheim stasjon - Kopperud",3,,FFFFFF,000000
+3576,RB,"3576","Jessheim vgs. - Jessheim stasjon [bussterminal",3,,FFFFFF,000000
+3590,RB,"590E","Ryen T - Vestby via Vinterbro",3,,FFFFFF,000000
+3601,FB,"FB1","Majorstuen - Oslo lufthavn",3,,FFFFFF,000000
+3602,FB,"FB2","Oslo sentrum - Oslo Lufthavn",3,,FFFFFF,000000
+3603,FB,"FB3","Bekkestua - Oslo lufthavn",3,,FFFFFF,000000
+3605,FB,"FB5","Hotel Scandinavia via Bislett - Oslo lufthavn",3,,FFFFFF,000000
+3606,FB,"FB6","Mortensrud - Oslo lufthavn",3,,FFFFFF,000000
+3611,FB,"FB11","Fredrikstad - Oslo lufthavn",3,,FFFFFF,000000
+3621,FB,"UE1","OSL-en - OSL-en",3,,FFFFFF,000000
+3631,RB,"3631","Runni us. - Vormsund b & us.",3,,FFFFFF,000000
+3632,RB,"3632","Runni us. - Auli senter/Brautergutua",3,,FFFFFF,000000
+3633,RB,"3633","Neskollen - Frilset",3,,FFFFFF,000000
+3634,RB,"3634","Vormsund b & us. - Neskollen/Bårstad",3,,FFFFFF,000000
+3635,RB,"3635","Holter - Rolstad-Holter",3,,FFFFFF,000000
+3636,RB,"3636","Lillerommen - Arnestad-Lillerommen/Nyhus",3,,FFFFFF,000000
+3637,RB,"3637","Fenstad skole - Rød/Bårstad",3,,FFFFFF,000000
+3638,RB,"3638","Neskollen/Skogbygda Mat - Fallet",3,,FFFFFF,000000
+3639,RB,"3639","Neskollen/Vormsund b & us. - Bjertnesgrenda/Dysterud bru",3,,FFFFFF,000000
+3640,RB,"3640","Skogbygda skole - Sliperisvingen",3,,FFFFFF,000000
+3641,RB,"3641","Skogbygda skole - Vormsund",3,,FFFFFF,000000
+3643,RB,"3643","Neskollen - Simarud",3,,FFFFFF,000000
+3644,RB,"3644","Neskollen - Fuglefjellet",3,,FFFFFF,000000
+3650,RB,"3650","Sandbergveien - Sandbergveien",3,,FFFFFF,000000
+3651,RB,"3651","Årnes møbler - Årnes Møbler",3,,FFFFFF,000000
+3652,RB,"3652","Østgård skole - Seterstøa stasjon",3,,FFFFFF,000000
+3655,RB,"3655","Lundsveien - Bodung",3,,FFFFFF,000000
+3657,RB,"3657","Framtun skole - Årnes stasjon",3,,FFFFFF,000000
+3658,RB,"3658","Framtun skole - Huserteiet",3,,FFFFFF,000000
+3659,RB,"3659","Årnes stasjon - Bjørkelia",3,,FFFFFF,000000
+3671,RB,"3671","Nes vgs./Runni us.- Årnes stasjon ",3,,FFFFFF,000000
+3674,RB,"3674","Vormsund - Fallet",3,,FFFFFF,000000
+3676,RB,"3676","Nes vgs - Bjørkelangen",3,,FFFFFF,000000
+3677,RB,"3677","Hellne/Sørumsand - Sørumsand",3,,FFFFFF,000000
+3681,RB,"3681","Hvam vgs - Årnes stasjon",3,,FFFFFF,000000
+3682,RB,"3682","Hvam vgs - Lørenfallet",3,,FFFFFF,000000
+3683,RB,"3683","Hvam vgs. - Munkerudteiet",3,,FFFFFF,000000
+3684,RB,"3684","Aursmoen/Bjørkelangen - Hvam vg. skole",3,,FFFFFF,000000
+3686,RB,"3686","Neskollen - Neskollen/Rånåsfoss",3,,FFFFFF,000000
+3687,RB,"3687","Auli - Årnes stasjon",3,,FFFFFF,000000
+3701,RF,"B1","Aker brygge- Aker brygge ",4,,FFFFFF,000000
+3702,RF,"B2","Aker brygge- Aker brygge ",4,,FFFFFF,000000
+3703,RF,"B3","Aker brygge- Aker brygge ",4,,FFFFFF,000000
+3704,RF,"B4","Langøyene - Aker brygge",4,,FFFFFF,000000
+3705,RF,"B1x","Hovedøya - Aker brygge",4,,FFFFFF,000000
+3731,RB,"3731","Vilberg skole/Eidsvoll stasjon - Millidal/Frilset",3,,FFFFFF,000000
+3732,RB,"3732","Vilberg skole - Furusetsenter",3,,FFFFFF,000000
+3733,RB,"3733","Langset skole - Frilset",3,,FFFFFF,000000
+3734,RB,"3734","Vilberg us. - Vegamot/Dokken",3,,FFFFFF,000000
+3735,RB,"3735","Dal stasjon - Dal stasjon/Bårstad",3,,FFFFFF,000000
+3736,RB,"3736","Skovseth- Langset skole ",3,,FFFFFF,000000
+3737,RB,"3737","Langset skole - Vestheim",3,,FFFFFF,000000
+3739,RB,"3739","Dal-Råholt-Finstad - Løkenvangen/Sneisrud",3,,FFFFFF,000000
+3740,RB,"3740","Råholthallen - Venger",3,,FFFFFF,000000
+3742,RB,"3742","Eidsvoll-Finstad/Ås skole - Døli-Bårstad",3,,FFFFFF,000000
+3743,RB,"3743","Råholthallen - Finstad-Eidsvoll/Løkenvangen",3,,FFFFFF,000000
+3744,RB,"3744","Langset skole - Langset skole",3,,FFFFFF,000000
+3771,RB,"3771","Vilberg skole - Jessheim/Råholt kirke-Fuglerud",3,,FFFFFF,000000
+3772,RB,"3772","Vilberg skole - Kloppeløkken",3,,FFFFFF,000000
+3773,RB,"3773","Eidsvoll vgs. - Ask terminal",3,,FFFFFF,000000
+3778,RB,"3778","Kirkebygda/Vilberg skole - Stubberud",3,,FFFFFF,000000
+3779,RB,"3779","Eidsvoll verk/Eidsvoll - Skimten",3,,FFFFFF,000000
+3780,RB,"3780","Nordkisa - Eidsvoll stasjon",3,,FFFFFF,000000
+3781,RB,"3781","Eidsvoll stasjon/Sundet - Langset skole",3,,FFFFFF,000000
+3783,RB,"3783","Eidsvoll stasjon - Langset skole/Minne industriområde",3,,FFFFFF,000000
+3810,RF,"B10","Aker brygge - Nesoddtangen",4,,FFFFFF,000000
+3811,RF,"B11","Lysaker - Nesoddtangen",4,,FFFFFF,000000
+3820,RF,"B20","Aker brygge - Slemmestad",4,,FFFFFF,000000
+3821,RF,"B21","Aker brygge - Filtvet/Son",4,,FFFFFF,000000
+3831,RB,"3831","Preståsen skole pl. - Finstad sameie",3,,FFFFFF,000000
+3832,RB,"3832","Nannestad vgs. - Åmål",3,,FFFFFF,000000
+3833,RB,"3833","Preståsen skole pl. - Eltonåsen/Eltonåsen-Ask",3,,FFFFFF,000000
+3834,RB,"3834","Nannestad vgs. - Åmål",3,,FFFFFF,000000
+3835,RB,"3835","Ukkestadbrua - Ukkestadbrua",3,,FFFFFF,000000
+3836,RB,"3836","Kringler Slattum skpl - Kringlerdalen",3,,FFFFFF,000000
+3837,RB,"3837","Fagerli sykehjem - Fagerli sykehjem",3,,FFFFFF,000000
+3838,RB,"3838","Gunhildrud- Preståsen skole ",3,,FFFFFF,000000
+3839,RB,"3839","Sandnesseter - Nannestad torg",3,,FFFFFF,000000
+3851,FF,"SV","Svelvik/Verket- Verket ",4,,FFFFFF,000000
+3852,FF,"BF","Moss/Horten- Horten ",4,,FFFFFF,000000
+3853,FB,"TP","Oslo /Torp - Sandefjord lufthavn Torp",3,,FFFFFF,000000
+3871,RB,"3871","Nannestad vgs - Nittedal",3,,FFFFFF,000000
+3872,RB,"3872","Nannestad vgs. - Eidsvoll stasjon",3,,FFFFFF,000000
+3874,RB,"3874","Nannestad vgs. - Skedsmokorset",3,,FFFFFF,000000
+3875,RB,"3875","Nannestad vgs. - Erikstellet",3,,FFFFFF,000000
+3876,RB,"3876","Nannestad - Eltonåsen",3,,FFFFFF,000000
+3877,RB,"3877","Nannestad via-Åsvegen - Eltonåsen",3,,FFFFFF,000000
+3901,RB,"N1","Jernbanetorget - Ullerntoppen",3,,FFFFFF,000000
+3902,RB,"N2","Lørenskog sentrum - Helsfyr T/Jernbanetorget",3,,FFFFFF,000000
+3903,RB,"N3","Skullerud T - Helsfyr T/Jernbanetorget",3,,FFFFFF,000000
+3904,RB,"N4","Ryen T/Bergkrystallen T - Helsfyr T/Jernbanetorget",3,,FFFFFF,000000
+3905,RB,"N5","Vestli T - Jernbanetorget",3,,FFFFFF,000000
+3911,RB,"N11","Kjelsås - Majorstuen",3,,FFFFFF,000000
+3912,RB,"N12","Kjelsås - Majorstuen",3,,FFFFFF,000000
+3918,RB,"N18","Jernbanetorget/Åsbråten - Kringsjå",3,,FFFFFF,000000
+3930,RB,"N30","Jernbanetorget - Bygdøy",3,,FFFFFF,000000
+3932,RB,"N32","Kværnerbyen - Voksen skog/Rådhuset",3,,FFFFFF,000000
+3935,RB,"3935","Hurdal torg - Rustad",3,,FFFFFF,000000
+3936,RB,"3936","Oslo lufthavn-ankomst - Vassenden",3,,FFFFFF,000000
+3963,RB,"N63","Grorud T- Grorud T ",3,,FFFFFF,000000
+3970,RB,"N70","Bjørndal - Jernbanetorget",3,,FFFFFF,000000
+3981,RB,"N81","Fløysbonn/Ski stasjon - Rådhuset",3,,FFFFFF,000000
+3983,RB,"N83","Fløysbonn - Rådhuset",3,,FFFFFF,000000
+40001,BB,"B1","Sanderud - Hamar vest",3,,FFFFFF,000000
+40002,BB,"B2","Furuberget - Bekkelaget",3,,FFFFFF,000000
+40003,BB,"B3","Fossum - Stange",3,,FFFFFF,000000
+40004,BB,"B4","Ingeberg - Sandvika",3,,FFFFFF,000000
+40005,BB,"B5","Hamar skysstasjon- Smeby/Hamar skysstasjon - Hamar skysstasjon ",3,,FFFFFF,000000
+40012,BB,"12","Brumunddal/Hamar - Moelv",3,,FFFFFF,000000
+40013,BB,"13","Jølstad - Brumunddal",3,,FFFFFF,000000
+40014,BB,"14","Stavsjø - Brumunddal",3,,FFFFFF,000000
+40015,BB,"15","Rudshøgda - Brumunddal",3,,FFFFFF,000000
+40016,BB,"16","Brumunddal - Furnesåsen",3,,FFFFFF,000000
+40017,BB,"17","Hamar - Jessnes",3,,FFFFFF,000000
+40018,BB,"18","Stavsjø - Vea",3,,FFFFFF,000000
+40019,BB,"19","Gaupen - Brumunddal",3,,FFFFFF,000000
+40020,BB,"20","Stavsjø - Brumunddal Sjurstuvegen",3,,FFFFFF,000000
+40022,BB,"4022","Austmarka - Kongsvinger",3,,FFFFFF,000000
+40023,BB,"23","Brumunddal - Sanden",3,,FFFFFF,000000
+40024,BB,"24","Brumunddal - Arneberg",3,,FFFFFF,000000
+40025,BB,"25","Brumunddal - Nybygda",3,,FFFFFF,000000
+40026,BB,"26","Brumunddal - Brumund/Brumunddal",3,,FFFFFF,000000
+40029,TT,"4029","Hokåsen - Kongsvinger - Skinnarbøl - Roverud",2,,FFFFFF,000000
+40032,BB,"32","Løten - Hamar",3,,FFFFFF,000000
+40033,BB,"33","Løten - Løten",3,,FFFFFF,000000
+40034,BB,"34","Østre Skogbygd/Vestre Skogbygd - Løten",3,,FFFFFF,000000
+40040,BB,"40","Hamar - Ormseter",3,,FFFFFF,000000
+40041,BB,"41","Østås/Gåsbu - Hamar",3,,FFFFFF,000000
+40051,BB,"51","Espa - Stange",3,,FFFFFF,000000
+40053,BB,"53","Støa - Stange",3,,FFFFFF,000000
+40054,BB,"54","Vestbygda - Hamar - Stange",3,,FFFFFF,000000
+40055,BB,"55","Hamar - Støa/Stange",3,,FFFFFF,000000
+40101,BB,"101","Steinerskolen - Korsgård",3,,FFFFFF,000000
+40102,BB,"102","Stange/Solvin skole - Åsvang",3,,FFFFFF,000000
+40104,BB,"104","Romedal/Romedal u. skole - Høgåstorvet",3,,FFFFFF,000000
+40105,BB,"105","Stange - Stange u. skole",3,,FFFFFF,000000
+40106,BB,"106","Egerom - Solvin skole",3,,FFFFFF,000000
+40107,BB,"107","Mosebekken - Tangen skole",3,,FFFFFF,000000
+40108,BB,"108","Jønsberg/Stange vg. skole - Hamar/Hamar direkte",3,,FFFFFF,000000
+40109,BB,"109","Romedal usk. - Fredsvold",3,,FFFFFF,000000
+40110,BB,"110","Basterud - Hoberg - Arstad - Steinerskolen/Arstad - Hamar",3,,FFFFFF,000000
+40111,BB,"111","Tangen - Stange vg. skole",3,,FFFFFF,000000
+40112,BB,"112","Arneberg - Hørsand/Arneberg - Romedal - Stange - Jønsberg",3,,FFFFFF,000000
+40113,BB,"113","Romedal - Hamar",3,,FFFFFF,000000
+40114,BB,"114","Kolomoen - Kolomoen",3,,FFFFFF,000000
+40115,BB,"115","Elverum - Stange",3,,FFFFFF,000000
+40116,BB,"116","Hamar - Hedemarken friskole",3,,FFFFFF,000000
+40117,BB,"117","Steinerskolen - Tangen",3,,FFFFFF,000000
+40118,BB,"118","Hedemarken friskole - Ottestad stasjon",3,,FFFFFF,000000
+40119,BB,"119","Ådalsbruk - Steinerskolen",3,,FFFFFF,000000
+40135,BB,"135","Trondheim - Tynset",3,,FFFFFF,000000
+40170,BB,"170","Elverum/Løten - Hamar - Gjøvik - Gjøvik",3,,FFFFFF,000000
+40171,BB,"171","Ingen påstigning - Ingen påstigning",3,,FFFFFF,000000
+40172,BB,"172","Hamar - Elverum",3,,FFFFFF,000000
+40181,BB,"4181","Sand - Kongsvinger",3,,FFFFFF,000000
+40182,TT,"4182","Knapper - Skarnes - Slåstad - Mo - Sand",2,,FFFFFF,000000
+40191,BB,"4191","Grusholen - Skarnes",3,,FFFFFF,000000
+40192,TT,"4192","Ullern - Skarnes - Ullern - Dysterud",2,,FFFFFF,000000
+40201,BB,"201","Stavsjø - Mengshol - Jølstad",3,,FFFFFF,000000
+40202,BB,"202","Gaupen skole - Tangnesvegen - Hobrenna",3,,FFFFFF,000000
+40203,BB,"203","Stavsjø - Nes skole",3,,FFFFFF,000000
+40204,BB,"204","Stavsjø - Nes skole",3,,FFFFFF,000000
+40205,BB,"205","Stavsjø/Helgøya - Nes skole",3,,FFFFFF,000000
+40206,BB,"206","Stavsjø - Nes skole",3,,FFFFFF,000000
+40207,BB,"207","Nes ungdomsskole - Bergsmeieriet",3,,FFFFFF,000000
+40208,BB,"208","Brumunddal - Brumunddal Sjurstuvegen",3,,FFFFFF,000000
+40209,BB,"209","Kirkenær skole/Kylstad skole - Furnes u.sk.",3,,FFFFFF,000000
+40210,BB,"210","Brumunddal - Furnes u.sk.",3,,FFFFFF,000000
+40211,BB,"211","Brumunddal - Brumunddal Sjurstuvegen",3,,FFFFFF,000000
+40213,BB,"213","Hamar/Kylstad skole - Brumunddal",3,,FFFFFF,000000
+40214,BB,"214","Moelv - Ringsaker vgs via E6/Brumunddal",3,,FFFFFF,000000
+40216,BB,"216","Stange videregående skole - Brumunddal Sjurstuvegen",3,,FFFFFF,000000
+40218,BB,"218","Furnes u.sk. - Furnes u.sk.",3,,FFFFFF,000000
+40219,BB,"219","Brumunddal - Furnes u. skole",3,,FFFFFF,000000
+40220,BB,"220","Furnes u.sk. - Brumunddal",3,,FFFFFF,000000
+40222,BB,"222","Furnes u.sk. - Stavsberg",3,,FFFFFF,000000
+40223,BB,"223","Strandsagvegen - Ringsaker vgs/Brumunddal - Ringsaker vgs",3,,FFFFFF,000000
+40231,BB,"4231","Svullrya - Kongsvinger",3,,FFFFFF,000000
+40232,BB,"4232","Risberget - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40233,BB,"4233","Grinder - Tjura - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40251,BB,"4251","Sønsterud - Linna - Sønsterud - Flisa",3,,FFFFFF,000000
+40252,BB,"4252","Snålroa - Lotteriet - Søgård - Jara skole - Flisa",3,,FFFFFF,000000
+40256,BB,"0256","Hokåsen - Kongsvinger - Skinnarbøl - Roverud",3,,FFFFFF,000000
+40261,BB,"4261","Rølsåsen - Elverum",3,,FFFFFF,000000
+40270,BB,"270","Lillehammer - Moelv",3,,FFFFFF,000000
+40271,BB,"271","Lillehammer - Moelv",3,,FFFFFF,000000
+40272,BB,"272","Moelv - Lillehammer",3,,FFFFFF,000000
+40273,BB,"273","Brøttum - Lillehammer",3,,FFFFFF,000000
+40274,BB,"274","Brøttum skole - Mesnalia",3,,FFFFFF,000000
+40275,BB,"4275","Rølsåsen - Elverum",3,,FFFFFF,000000
+40276,BB,"4276","Våler vestsiden - Elverum vestsiden",3,,FFFFFF,000000
+40277,BB,"4277","Jømna - Elverum",3,,FFFFFF,000000
+40282,BB,"4282","Lutnes - Trysil",3,,FFFFFF,000000
+40283,BB,"4283","Osen - Rena - Osen - Trysil",3,,FFFFFF,000000
+40284,BB,"4284","Eltdalen - Jordet Coop-marked",3,,FFFFFF,000000
+40285,BB,"4285","Fuglamoen - Trysil",3,,FFFFFF,000000
+40286,BB,"4286","Trysil - Sjøenden",3,,FFFFFF,000000
+40290,BB,"290","Åsmarka - Moelv - Brøttum skole",3,,FFFFFF,000000
+40291,BB,"4291","Rena- Rena skysstasjon ",3,,FFFFFF,000000
+40292,BB,"4292","Rena - Osen",3,,FFFFFF,000000
+40293,BB,"293","Ringsrunden - Moelv stasjon",3,,FFFFFF,000000
+40294,BB,"294","Moelv - Næroset",3,,FFFFFF,000000
+40295,BB,"4295","Osdalen - Osen",3,,FFFFFF,000000
+40296,BB,"4296","Rena - Deset - Hanstad",3,,FFFFFF,000000
+40297,BB,"4297","Osdalen - Osen",3,,FFFFFF,000000
+40301,BB,"301","Vang 1 - Ener u. skole",3,,FFFFFF,000000
+40302,BB,"302","Vang 1B - Vang 1B",3,,FFFFFF,000000
+40303,BB,"303","Vang 2 - Vang 2",3,,FFFFFF,000000
+40304,BB,"304","Vang 2B - Vang 2B",3,,FFFFFF,000000
+40305,BB,"305","Vang 3 - Lovisenberg skole",3,,FFFFFF,000000
+40306,BB,"306","Vang 4 - Vang 4",3,,FFFFFF,000000
+40307,BB,"307","Hamar katedralskole - Ener u.sk.",3,,FFFFFF,000000
+40308,BB,"308","Vik - Greftenmoen - Hamar katedralskole",3,,FFFFFF,000000
+40309,BB,"4309","Folldal - Atna - Koppang",3,,FFFFFF,000000
+40310,BB,"310","Vangsåsen - Steinerskolen",3,,FFFFFF,000000
+40312,BB,"312","Hamar skysstasjon - Hamar katedralskole",3,,FFFFFF,000000
+40321,BB,"4321","Tynset - Brydalen - Rendalen - Koppang",3,,FFFFFF,000000
+40322,BB,"4322","Fagertun skole - Lomnessjøen",3,,FFFFFF,000000
+40341,BB,"4341","Femund - Elgå",3,,FFFFFF,000000
+40342,BB,"4342","Engerdal skole - Snerta",3,,FFFFFF,000000
+40343,BB,"4343","Sømådal - Engerdal skole",3,,FFFFFF,000000
+40344,BB,"4344","Engerdal skole - Lillebo",3,,FFFFFF,000000
+40350,BB,"350","Løten/Elverum - Steinerskolen/Storhamar vgs.",3,,FFFFFF,000000
+40361,BB,"4361","Vingelen - Tolga",3,,FFFFFF,000000
+40362,BB,"4362","Drevsjø - Engerdal - Tolga - Tynset/Tynset",3,,FFFFFF,000000
+40371,BB,"4371","Rendalen - Brydalen - Tynset - Brydalen - Rendalen - Koppang",3,,FFFFFF,000000
+40372,TT,"4372","Alvdal - Folldal - Alvdal - Tynset",2,,FFFFFF,000000
+40373,BB,"4373","Kvikne - Kvikne - Tynset",3,,FFFFFF,000000
+40391,BB,"4391","Hjerkinn - Folldal rutebilstasjon",3,,FFFFFF,000000
+40392,BB,"4392","Atna - Sollia - Folldal - Sollia - Atna - Koppang",3,,FFFFFF,000000
+40400,BB,"400","Sand - Kongsvinger",3,,FFFFFF,000000
+40409,BB,"409","Skarnes - Sand - Skarnes - Kongsvinger",3,,FFFFFF,000000
+40410,BB,"410","Skarnes - Sand",3,,FFFFFF,000000
+40411,BB,"4411","Tufsingdal - Os",3,,FFFFFF,000000
+40412,BB,"4412","Os - Os stasjon",3,,FFFFFF,000000
+40415,BB,"415","Skarnes - Kongsvinger",3,,FFFFFF,000000
+40417,BB,"417","Grusholen - Skarnes",3,,FFFFFF,000000
+40418,BB,"418","Finnholt - Disenå",3,,FFFFFF,000000
+40420,BB,"420","Bruvoll Øst - Vest - Sand sentralskole",3,,FFFFFF,000000
+40422,BB,"422","Bunes - Bunes - Sand",3,,FFFFFF,000000
+40425,BB,"425","Sand - Nord-Odal u. skole",3,,FFFFFF,000000
+40431,BB,"431","Skarnes - Gardvik",3,,FFFFFF,000000
+40432,BB,"432","Løkker - Bruvoll Vest - Gardvik",3,,FFFFFF,000000
+40433,BB,"433","Korsholen/Sand - Gardvik",3,,FFFFFF,000000
+40434,BB,"434","Knapper - Gardvik",3,,FFFFFF,000000
+40440,BB,"440","Sander - Skarnes",3,,FFFFFF,000000
+40442,BB,"442","Oppstad - Kvedalen - Skarnes idrettshall",3,,FFFFFF,000000
+40443,BB,"443","Skarnes - Dysterud",3,,FFFFFF,000000
+40450,BB,"450","Skarnes - Sander",3,,FFFFFF,000000
+40452,BB,"452","Sander skole - Sander",3,,FFFFFF,000000
+40453,BB,"453","Sander - Spetalen/Svartfossen",3,,FFFFFF,000000
+40460,BB,"460","Oppstad - Slåstad - Skarnes",3,,FFFFFF,000000
+40470,BB,"470","Sand - Eidsvoll",3,,FFFFFF,000000
+40471,BB,"471","Mo - Sand",3,,FFFFFF,000000
+40500,BB,"500","Elverum - Kongsvinger",3,,FFFFFF,000000
+40501,BB,"B1","Vangen - Bogeråsen - Rasta - Vennersberg",3,,FFFFFF,000000
+40503,BB,"B2","Lia - Marikollen - Glåmlia - Skriverskogen",3,,FFFFFF,000000
+40504,BB,"504","Flisa - Elverum - Kongsvinger",3,,FFFFFF,000000
+40510,BB,"510","Svullrya - Kongsvinger",3,,FFFFFF,000000
+40511,BB,"511","Roverud - Kongsvinger",3,,FFFFFF,000000
+40515,BB,"515","Austmarka - Femoen - Kongsvinger/Kongsvinger",3,,FFFFFF,000000
+40516,BB,"516","Austmarka - Kongsvinger",3,,FFFFFF,000000
+40517,BB,"517","Magnor/Austmarka - Kongsvinger - Brødbøl",3,,FFFFFF,000000
+40520,BB,"520","Finnsrud - Skotterud",3,,FFFFFF,000000
+40521,BB,"521","Nessjøen - Magnor - Ilag - Skott - Skotterud",3,,FFFFFF,000000
+40522,BB,"522","Holsæter - Skotterud",3,,FFFFFF,000000
+40523,BB,"523","Sjøenden - Skotterud",3,,FFFFFF,000000
+40526,BB,"526","Dal stasjon/Fjellkrysset - Skotterud",3,,FFFFFF,000000
+40527,BB,"527","Vestmarka - Skotterud",3,,FFFFFF,000000
+40528,BB,"528","Skotterud/Vestmarka - Kongsvinger",3,,FFFFFF,000000
+40530,BB,"530","Magnor skole - Solheim - Vilsbergvegen",3,,FFFFFF,000000
+40540,BB,"540","Kongsvinger - Brandval skole",3,,FFFFFF,000000
+40541,BB,"541","Vestby - Kongsvinger",3,,FFFFFF,000000
+40542,BB,"542","Overud - Kongsvinger",3,,FFFFFF,000000
+40543,BB,"543","Sigernes/Strengelsrud - Kongsvinger",3,,FFFFFF,000000
+40544,BB,"544","Edsberg - Kongsvinger",3,,FFFFFF,000000
+40555,BB,"555","Roverud - Roverud",3,,FFFFFF,000000
+40556,BB,"556","Hokåsen - Kongsvinger/Kongsvinger - Skinnarbøl - Roverud",3,,FFFFFF,000000
+40557,BB,"557","Roverud - Smestadtjernet",3,,FFFFFF,000000
+40558,BB,"558","Øyermoen - Hokåsen - Roverud/Kongsvinger",3,,FFFFFF,000000
+40560,BB,"560","Kongsvinger - Brandval",3,,FFFFFF,000000
+40561,BB,"561","Brandval - Hokåsen",3,,FFFFFF,000000
+40562,BB,"562","Brandval - Hokåsen",3,,FFFFFF,000000
+40565,BB,"565","Brandval - Lundersæter",3,,FFFFFF,000000
+40568,BB,"568","Holmby-Øyermoen - Austmarka",3,,FFFFFF,000000
+40575,BB,"575","Charlottenberg - Kongsvinger",3,,FFFFFF,000000
+40581,BB,"581","Rotneberget - Furuberget/Løvhaugsåa - Kirkenær",3,,FFFFFF,000000
+40610,BB,"610","Kongsvinger - Flisa",3,,FFFFFF,000000
+40611,BB,"611","Dæsvegen/Sønsterud - Flisa",3,,FFFFFF,000000
+40612,BB,"612","Roverud/Flisa - Kirketorget",3,,FFFFFF,000000
+40620,BB,"620","Refset - Jansvegen - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40621,BB,"621","Risberget - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40622,BB,"622","Namnå - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40623,BB,"623","Grue barne og ungdomsskole - Grue aldershjem",3,,FFFFFF,000000
+40627,BB,"627","Grinder - Tjura - Grue barne og ungdomsskole",3,,FFFFFF,000000
+40630,BB,"630","Arneberg - Eierholen - Kvisler - Flisa",3,,FFFFFF,000000
+40631,BB,"631","Snålroa - Lotteriet - Søgård - Flisa/Jara skole - Flisa",3,,FFFFFF,000000
+40632,BB,"632","Gjesåsen - Flisa/Gjesåsen",3,,FFFFFF,000000
+40634,BB,"634","Knappom - Vermundsjøen - Flisa/Sønsterud",3,,FFFFFF,000000
+40635,BB,"635","Åslia - Jammerdal - Åsnes u. skole",3,,FFFFFF,000000
+40636,BB,"636","Nergrenda - Flisa",3,,FFFFFF,000000
+40637,BB,"637","Solør Montessori sk - Flisa - Gjesåsen",3,,FFFFFF,000000
+40640,BB,"640","Gjesåsen - Flisa - Sønsterud skole",3,,FFFFFF,000000
+40646,BB,"646","Eierholen - Flisa - Jara skole",3,,FFFFFF,000000
+40647,BB,"647","Jara skole - Jammerdal",3,,FFFFFF,000000
+40648,BB,"648","Hof rundt - Jara skole - Hof rundt",3,,FFFFFF,000000
+40649,BB,"649","Korsmokrysset - Hof rundt",3,,FFFFFF,000000
+40650,BB,"650","Kvisler - Snålroa",3,,FFFFFF,000000
+40651,BB,"651","Gjesåsen - Hasla - Braskereidfos - Gjesåsen - Flisa",3,,FFFFFF,000000
+40660,BB,"660","Gisti/Hasla - Ranum - Nordhagen - Gjesåsen - Ranum - Våler",3,,FFFFFF,000000
+40661,BB,"661","Bergesidevegen - Våler",3,,FFFFFF,000000
+40662,BB,"662","Tøråsen - Braskereidfoss vest - Våler vgs - Våler",3,,FFFFFF,000000
+40701,BB,"B1","Hanstad - Mastmoen - Søbakken",3,,FFFFFF,000000
+40702,BB,"B2","Elverum torv - Elverum torv",3,,FFFFFF,000000
+40708,BB,"708","Elverum torv - Elverum torv",3,,FFFFFF,000000
+40709,BB,"709","Elverum torv - Elverum torv",3,,FFFFFF,000000
+40710,BB,"710","Braskereidfoss vestsiden - Elverum vestsiden",3,,FFFFFF,000000
+40711,BB,"711","Jømna - Melåsberget skole - Elverum",3,,FFFFFF,000000
+40712,BB,"712","Kirkeby - Hernes/Elverum",3,,FFFFFF,000000
+40713,BB,"713","Styggberget - Elverum",3,,FFFFFF,000000
+40714,BB,"714","Kynnberget - Elverum",3,,FFFFFF,000000
+40715,BB,"715","Elverum ungdomsskole - Skogmuséet",3,,FFFFFF,000000
+40716,BB,"716","Elverum u.skole - Solbærvegen snuplass",3,,FFFFFF,000000
+40718,BB,"718","Sørskogbygda - Elverum",3,,FFFFFF,000000
+40720,BB,"720","Indset - Søbakken skole",3,,FFFFFF,000000
+40725,BB,"725","Elverum ungdomsskole/Elverum vgs. - Rustad",3,,FFFFFF,000000
+40730,BB,"730","Hovindberget - Hernes skole",3,,FFFFFF,000000
+40735,BB,"735","Bronka - Melåsberget skole",3,,FFFFFF,000000
+40740,BB,"740","Hovindberget - Elverum vg. skole",3,,FFFFFF,000000
+40745,BB,"745","Elverum vgs. - Løten stasjon",3,,FFFFFF,000000
+40750,BB,"750","Rena/Slettås - Osen",3,,FFFFFF,000000
+40751,BB,"751","Elverum - Trysil/Femund",3,,FFFFFF,000000
+40752,BB,"752","Engerdal skole/Engerdal - Engerdal skole/Elgå",3,,FFFFFF,000000
+40754,BB,"754","Vestre Trysil skole - Gjevaldshaugen",3,,FFFFFF,000000
+40755,BB,"755","Osdalen - Osen",3,,FFFFFF,000000
+40757,BB,"757","Engerdal skole - Snerta",3,,FFFFFF,000000
+40759,BB,"759","Sømådal - Engerdal skole",3,,FFFFFF,000000
+40760,BB,"760","Engerdal skole - Lillebo",3,,FFFFFF,000000
+40799,FF,"799","Elgå brygge - Synnervika brygge",4,,FFFFFF,000000
+40803,BB,"803","Trysil - Vestre Trysil skole/Tørberget",3,,FFFFFF,000000
+40815,BB,"815","Trysil - Sjøenden",3,,FFFFFF,000000
+40830,BB,"830","Lutnes - Trysil",3,,FFFFFF,000000
+40853,BB,"853","Eltdalen - Jordet",3,,FFFFFF,000000
+40854,BB,"854","Fuglamoen - Trysil",3,,FFFFFF,000000
+40870,BB,"870","Trysil - Ljørdalen",3,,FFFFFF,000000
+40871,BB,"871","Trysil - Linnes",3,,FFFFFF,000000
+40875,BB,"875","Østby - Trysil",3,,FFFFFF,000000
+40902,BB,"902","Elverum - Rena",3,,FFFFFF,000000
+40911,BB,"911","Rena - Rena skole",3,,FFFFFF,000000
+40915,BB,"915","Bergslia/Elverum østsiden - Rena østsiden",3,,FFFFFF,000000
+40951,BB,"951","Rena - Øgle Viken",3,,FFFFFF,000000
+40952,BB,"952","Tynset - Koppang",3,,FFFFFF,000000
+40953,BB,"953","Tynset - Koppang/Elvål",3,,FFFFFF,000000
+40954,BB,"954","Rena - Deset",3,,FFFFFF,000000
+40955,BB,"955","Brekka/Tynset - Tynsetskolene",3,,FFFFFF,000000
+40956,BB,"956","Folldal - Atnbrua/Koppang",3,,FFFFFF,000000
+40957,BB,"957","Fagertun skole - Lomnessjøen/Sjølisand",3,,FFFFFF,000000
+40964,BB,"964","Folldal - Rykroken",3,,FFFFFF,000000
+40971,BB,"971","Folldal - Alvdal/Tynset",3,,FFFFFF,000000
+40972,BB,"972","Kvikne/Gardlia - Tynset",3,,FFFFFF,000000
+40973,BB,"973","Alvdal - Alvdal/Strømmen",3,,FFFFFF,000000
+40974,BB,"974","Alvdal - Steigen skole",3,,FFFFFF,000000
+40975,BB,"975","Tynset - Alvdal",3,,FFFFFF,000000
+40976,BB,"976","Savalen - Tynset",3,,FFFFFF,000000
+40977,BB,"977","Vingelen - Tynset/Vingelen - Tolga",3,,FFFFFF,000000
+40978,BB,"978","Engerdal/Øversjødalen - Tolga - Tynset østsiden/Tynset",3,,FFFFFF,000000
+40979,BB,"979","Tynset - Tynset",3,,FFFFFF,000000
+40981,BB,"981","Røros - Tynset",3,,FFFFFF,000000
+40982,BB,"982","Tynset - Tynset",3,,FFFFFF,000000
+40983,BB,"983","Bubakken - Tynsetskolene",3,,FFFFFF,000000
+40984,BB,"984","Ringbuss Tynset - Tynset bussterminal",3,,FFFFFF,000000
+40990,BB,"990","Tynset østsiden - Tolga østsiden",3,,FFFFFF,000000
+40991,BB,"991","Tufsingdal - Os",3,,FFFFFF,000000
+40992,BB,"992","Os - Os stasjon",3,,FFFFFF,000000
+51001,BB,"1","Jørstadmoen - Skysstasjonen",3,,FFFFFF,000000
+51002,BB,"2","Søre Ål - Høgskolen Storhove",3,,FFFFFF,000000
+51003,BB,"3","Ekromskogen - Vingnes",3,,FFFFFF,000000
+51004,BB,"4","Vårsetergrenda - Høgskolen Storhove",3,,FFFFFF,000000
+51005,BB,"5","Røyslimoen via Vårsetergrenda - Skysstasjonen",3,,FFFFFF,000000
+51006,BB,"6","Skihytta - Skurvbrua - Øyresvika",3,,FFFFFF,000000
+51007,BB,"7","Nybu - Skysstasjonen",3,,FFFFFF,000000
+51008,BB,"8","Søre Ål bo- og servicesenter - Skårsetlia bo- og servicesenter",3,,FFFFFF,000000
+51015,BB,"NX15","Oslo- Gjøvik ",3,,FFFFFF,000000
+51031,BB,"31","Vindingstad - Kopperud - Åslundmarka",3,,FFFFFF,000000
+51032,BB,"32","NTNU Kallerud - Sykehuset",3,,FFFFFF,000000
+51033,BB,"33","Øverby - Tranberg - Østbyhøgda",3,,FFFFFF,000000
+51034,BB,"34","Vindingstad - Kopperud - Sykehuset - Bjørnsveen",3,,FFFFFF,000000
+51035,BB,"35","Tobru - Skysstasjonen",3,,FFFFFF,000000
+51036,BB,"36","Skysstasjonen/Bondelia - Øverbymarka",3,,FFFFFF,000000
+51037,BB,"37","Sykehuset - Nordbyen - Tongjordet",3,,FFFFFF,000000
+51135,BB,"135","Fagernes - Gjøvik",3,,FFFFFF,000000
+51136,BB,"136","Dokka - Lillehammer",3,,FFFFFF,000000
+51142,BB,"142","Ringebu/Skjåk - Kun avstigning",3,,FFFFFF,000000
+51150,BB,"150","Lunner - Gjøvik/Gjøvik skysstasjon",3,,FFFFFF,000000
+51151,BB,"151","Lillehammer Lokal - Gjøvik lokal",3,,FFFFFF,000000
+51153,BB,"153","Oslo - Dokka",3,,FFFFFF,000000
+51171,BB,"171","Gjøvik  - Hamar ",3,,FFFFFF,000000
+51200,BB,"200","Svatsum/Forsetskolene - Lillehammer",3,,FFFFFF,000000
+51201,BB,"201","Evenhaugen/Forset - Lillehammer via Vingrom",3,,FFFFFF,000000
+51210,BB,"210","Bestilles. Gausdal A om Kastrud/Gausdal Arena via Tråsetstranda - Lillehammer via Tråsetstranda",3,,FFFFFF,000000
+51211,BB,"211","Segalstad bru/Svingvoll - Lillehammer",3,,FFFFFF,000000
+51212,BB,"212","Bestilles.Svingvoll om Øverbygda/Svingvoll via Øverbygda - Lillehammer via Øverbygda",3,,FFFFFF,000000
+51214,BB,"214","Tretten - Svingvoll/Gausdal Arena",3,,FFFFFF,000000
+51220,BB,"220","Forsetskolene - Skjeggestadstuen/Engjom skole",3,,FFFFFF,000000
+51221,BB,"221","Follebu skole/Forsetskolene - Finnsvea",3,,FFFFFF,000000
+51222,BB,"222","Gausdal Arena - Svatsum øvre",3,,FFFFFF,000000
+51223,BB,"223","Forsetskolene/Lillehammer via Auggedal - Forsetskolene",3,,FFFFFF,000000
+51224,BB,"224","Gausdal Arena - Engjom skole",3,,FFFFFF,000000
+51230,BB,"230","Lillehammer skysstasjon - Lillehammer",3,,FFFFFF,000000
+51231,BB,"231","Steinerskolen/Vingar skole - Lillehammer - Øyresvika",3,,FFFFFF,000000
+51232,BB,"232","Lillehammer skysstasjon - NTG Lillehammer",3,,FFFFFF,000000
+51233,BB,"233","Lillehammer - Lillehammer vgs Nord",3,,FFFFFF,000000
+51234,BB,"234","Lillehammer skysstasjon - Buvollen",3,,FFFFFF,000000
+51235,BB,"235","Åretta skole - Lillehammer",3,,FFFFFF,000000
+51236,BB,"236","Ekromskogen via Sykehuset - Skysstasjonen",3,,FFFFFF,000000
+51240,BB,"240","Bjørge - Båsen - Kvam - Oddvang/Tingberg via Bjørge - Bruvoll/Ensby",3,,FFFFFF,000000
+51241,BB,"241","Lillehammer - Winge",3,,FFFFFF,000000
+51242,BB,"242","Hafjell - Tretten - Lillehammer",3,,FFFFFF,000000
+51244,BB,"244","Hafjell-Hunderfossen familiepark - Lillehammer skysstasjon",3,,FFFFFF,000000
+51250,BB,"250","Tretten - Øyer u. skole Lundstad",3,,FFFFFF,000000
+51251,BB,"251","Tretten - Mellomberg",3,,FFFFFF,000000
+51252,BB,"252","Hundorp - Tretten",3,,FFFFFF,000000
+51253,BB,"253","Tingberg - Øyer/Solvang skole - Øyer usk - Solvang skole",3,,FFFFFF,000000
+51254,BB,"254","Dulven - Aurvoll skole",3,,FFFFFF,000000
+51255,BB,"255","Øyer u. skole Lundstad - Solvang skole - Øyer usk",3,,FFFFFF,000000
+51260,BB,"260","Nordseter - Lillehammer/Lillehammer skysstasjon",3,,FFFFFF,000000
+51262,BB,"262","Sjusjøen - Lillehammer",3,,FFFFFF,000000
+51269,BB,"269","Bestilles. Menkerud/Hinnkleivkrysset - Lillehammer/Bestilles. Lillehammer",3,,FFFFFF,000000
+51300,BB,"300","Kapp - Raufoss",3,,FFFFFF,000000
+51301,BB,"301","Ringrute 1- Gjøvik skysstasjon ",3,,FFFFFF,000000
+51302,BB,"302","Ringrute 2- Gjøvik skysstasjon ",3,,FFFFFF,000000
+51303,BB,"303","Raufoss vgs/Raufoss - Lena - Raufoss - Hunndalen/Gjøvik",3,,FFFFFF,000000
+51304,BB,"304","Vardal ungdomsskole/Bjørnsveen ungdomsskole - Vindingstad - Skysstasjonen",3,,FFFFFF,000000
+51305,BB,"305","Skysstasjonen - Gjøvik vgs/Kallerud - Rambekkmoen",3,,FFFFFF,000000
+51310,BB,"310","Kapp - Gjøvik - Kapp - Fjellhaug",3,,FFFFFF,000000
+51315,BB,"315","Lensbygda - Lena/Skreia - Lensbygda - Skreia",3,,FFFFFF,000000
+51318,BB,"318","Åsmarka - Gjøvik - Åsmarka/Åsmarka - Møllerhagen",3,,FFFFFF,000000
+51330,BB,"330","Gjøvik/Reinsvoll - Eina stasjon",3,,FFFFFF,000000
+51333,BB,"333","Åsmarka - Raufoss/Åsmarka - Raufoss vgs - Åsmarka - Eina",3,,FFFFFF,000000
+51340,BB,"340","Skumsjøen - Skysstasjonen",3,,FFFFFF,000000
+51343,BB,"343","Landåsen - Gjøvik",3,,FFFFFF,000000
+51344,BB,"344","Tobru snuplass Odnesvegen - Tobru/Skysstasjonen",3,,FFFFFF,000000
+51345,BB,"345","Vardal ungdomsskole - Grande skole - Seval - Bybrua/Bybrua",3,,FFFFFF,000000
+51350,BB,"350","Snertingdalen - Gjøvik",3,,FFFFFF,000000
+51351,BB,"351","Gjøvik - Snertingdalen",3,,FFFFFF,000000
+51352,BB,"352","Skysstasjonen/Gjøvik - Torpa",3,,FFFFFF,000000
+51353,BB,"353","Gjøvik - Snertingdalen",3,,FFFFFF,000000
+51354,BB,"354","Snertingdal skole/Forbrukslaget - Sykehuset/Snertingdal skole",3,,FFFFFF,000000
+51355,BB,"355","Tranalia - Forbrukslaget/Storre - Forbrukslaget - Snertingdal skole",3,,FFFFFF,000000
+51360,BB,"360","Kapp - Haug - Sogstadkrysset/Kapp - Lena ungdomsskole - Bilitt",3,,FFFFFF,000000
+51363,BB,"363","Lena skysstasjon - Grøtberg/Haug - Glemmestad",3,,FFFFFF,000000
+51364,BB,"364","Smitborg/Skreia ungdomsskole - Stange skole/Hoffsvangen skole",3,,FFFFFF,000000
+51366,BB,"366","Kapp - Lena ungdomsskole - Gjøvik",3,,FFFFFF,000000
+51370,BB,"370","Reinsvoll skole/Raufoss vgs - Øverseth - Kolbu",3,,FFFFFF,000000
+51371,BB,"371","Lena ungdomsskole/Lena usk - Hoffsvangen sk - Kolbu",3,,FFFFFF,000000
+51374,BB,"374","Kapp-Åsmarka-Raufoss industri - Åsmarka - Kapp - Skreia",3,,FFFFFF,000000
+51375,BB,"375","Lena - Kolbu skole/Møllerhagen - Lund",3,,FFFFFF,000000
+51376,BB,"376","Hoffsvangen skole/Raufoss - Åsmarka - Lena - Åsmarka - Raufoss - Kapp",3,,FFFFFF,000000
+51381,BB,"381","Reinsvoll skole - Skjærdalen",3,,FFFFFF,000000
+51382,BB,"382","Reinsvoll skole - Hjelpstein - Holmbo",3,,FFFFFF,000000
+51385,BB,"385","Reinsvoll skole - Børsvoll",3,,FFFFFF,000000
+51388,BB,"388","Grimås - sentrum - Raufoss kjøpesenter",3,,FFFFFF,000000
+51390,BB,"390","Bestilles hos Gjøvik Taxi - Raufoss sentrum",3,,FFFFFF,000000
+51391,BB,"391","Skyberg - Vang",3,,FFFFFF,000000
+51392,BB,"392","Lundstein sk- Stokke - Gjøvik - Gjøvik skysstasjon ",3,,FFFFFF,000000
+51393,BB,"393","Biri - Redalen skole/Biri",3,,FFFFFF,000000
+51397,BB,"397","Biri - Biri sentrum Snertingdal auto",3,,FFFFFF,000000
+51398,BB,"398","Biri sentrum - Biri sentrum Snertingdal auto",3,,FFFFFF,000000
+51399,BB,"399","Bestilles hos Gjøvik Taxi - Biri sentrum nordgående",3,,FFFFFF,000000
+51405,BB,"405","Skillestad/Sødorptunet - Harpefoss",3,,FFFFFF,000000
+51407,BB,"407","Sødorp skole - Hågå",3,,FFFFFF,000000
+51408,BB,"408","Vinstrahallen - Lyngstad",3,,FFFFFF,000000
+51409,BB,"409","Vinstra skysstasjon - Skåbu",3,,FFFFFF,000000
+51410,BB,"410","Sør-Fron ungdomsskole - Lillehove/Grindtorget",3,,FFFFFF,000000
+51411,BB,"411","Kvam skole - Kvam - Feten",3,,FFFFFF,000000
+51412,BB,"412","Midtbygda sk - Sør-Fron usk - Grindtorget",3,,FFFFFF,000000
+51413,BB,"413","Brynsbakken - Sødorptunet",3,,FFFFFF,000000
+51414,BB,"414","Ottahallen - Hundorp - Kommunelokalet",3,,FFFFFF,000000
+51419,BB,"419","Kvarvet - Ringebu - Sørheim omsorgssenter",3,,FFFFFF,000000
+51420,BB,"420","Ringebu skysstasjon - Venabygd",3,,FFFFFF,000000
+51421,BB,"421","Ringebu skysstasjon - Åssveen/Dalen",3,,FFFFFF,000000
+51422,BB,"422","Fåvang skole - Pålsrud",3,,FFFFFF,000000
+51423,BB,"423","Dalen - Fåvang skole",3,,FFFFFF,000000
+51424,BB,"424","Krekkevika - Ringebu skysstasjon",3,,FFFFFF,000000
+51460,BB,"460","Straumbu - Ringebu",3,,FFFFFF,000000
+51501,BB,"501","Bismo - Otta",3,,FFFFFF,000000
+51502,BB,"502","Otta skysstasjon - Rustmo - Lalm - Otta",3,,FFFFFF,000000
+51504,BB,"504","Staurust - Bismo - Skjåk ungdomsskule/Lundagrendi - Skjåk ungdomsskule",3,,FFFFFF,000000
+51511,BB,"511","Liasanden - Lom",3,,FFFFFF,000000
+51512,BB,"512","Garmo skule - Byre - Lom",3,,FFFFFF,000000
+51513,BB,"513","Grøna - Lom",3,,FFFFFF,000000
+51514,BB,"514","Lom - Lom/Lundagrendi",3,,FFFFFF,000000
+51521,BB,"521","Randsverk sag - Vågåmo",3,,FFFFFF,000000
+51522,BB,"522","Bestilles. Skogbygda - Vågåmo - Vågåmo rutebilstasjon",3,,FFFFFF,000000
+51524,BB,"524","Bestilles. Storviksroa - Vågåmo - Vågåmo rutebilstasjon",3,,FFFFFF,000000
+51525,BB,"525","Kvarberg - Grev - Vågåmo/Bestilles. Kvarberg - Vågåmo - Vågåmo rutebilstasjon",3,,FFFFFF,000000
+51526,BB,"526","Bestilles. Hanslin - Vågåmo",3,,FFFFFF,000000
+51530,BB,"530","Bestilles. Bredi - Otta/Bredi - Otta - Otta skysstasjon",3,,FFFFFF,000000
+51531,BB,"531","Bjølstadmo - Murulikrysset/Høgkjørrbekken",3,,FFFFFF,000000
+51532,BB,"532","Høvringen - Smuksjøseter - Høvringen - Otta",3,,FFFFFF,000000
+51533,BB,"533","Otta skysstasjon/Ottahallen - Dalelie",3,,FFFFFF,000000
+51534,BB,"534","Nord-Sel kirke - Otta",3,,FFFFFF,000000
+51535,BB,"535","Slettmoen - Otta skysstasjon",3,,FFFFFF,000000
+51536,BB,"536","Tolstadåsen - Otta",3,,FFFFFF,000000
+51538,BB,"538","Raphamn - Mysuseter - Spranget/Mysuseter - Spranget - Mysuseter - Otta/Mysuseter - Raphamn - Otta",3,,FFFFFF,000000
+51539,BB,"539","Vinstrahallen/Sjoa - Otta",3,,FFFFFF,000000
+51541,BB,"541","Sæther - Øyi - Bjølstadmo - Bjølstadmo",3,,FFFFFF,000000
+51542,BB,"542","Leirflata - Bjølstadmo/Heidal skule - Heidal skule",3,,FFFFFF,000000
+51557,BB,"557","Vestsida-Solsida-Dovreskogen - Lesja/Dombås skyssterminal om Burma",3,,FFFFFF,000000
+51560,BB,"560","Gjendesheim - Vågåmo",3,,FFFFFF,000000
+51562,BB,"562","Bestilles. Sota sæter - Bestilles. Bismo",3,,FFFFFF,000000
+51564,BB,"564","Juvasshytta - Lom",3,,FFFFFF,000000
+51565,BB,"565","Spiterstulen - Lom",3,,FFFFFF,000000
+51566,BB,"566","Sogndal - Otta",3,,FFFFFF,000000
+51573,BB,"573","Nordberg skule - Dønfoss/Bråtå - Bismo",3,,FFFFFF,000000
+51580,BB,"580","Otta skysstasjon - Bjorli",3,,FFFFFF,000000
+51601,BB,"601","AMFI Valdres - Spikarmoen/Valdres Folkemuseum",3,,FFFFFF,000000
+51602,BB,"602","Beitostølen/Gjendesheim - Fagernes",3,,FFFFFF,000000
+51603,BB,"603","Tyinkrysset - Fagernes",3,,FFFFFF,000000
+51604,BB,"604","Gol stasjon - Fagernes",3,,FFFFFF,000000
+51605,BB,"605","Beitostølen - Mørken/Huvustup - Robøle - Ø.Slidre u.skole/Rogne skule - Kolstadbygda",3,,FFFFFF,000000
+51606,BB,"606","Tyinkrysset - Høre skule/Åsvang - Høre",3,,FFFFFF,000000
+51607,BB,"607","Sinderstølen - Fagernes skysstasjon",3,,FFFFFF,000000
+51608,BB,"608","Røn skule - Ulneskrysset/Rogndokken - Fagernes",3,,FFFFFF,000000
+51610,BB,"610","Åstad - Fagernes skysstasjon",3,,FFFFFF,000000
+51611,BB,"611","Vestringsbygda/Aurdal skole - Fagernes skysstasjon",3,,FFFFFF,000000
+51612,BB,"612","Brennabu/Røn skule - Brennabu",3,,FFFFFF,000000
+51635,BB,"635","Moane - Fagernes skysstasjon",3,,FFFFFF,000000
+51636,BB,"636","Eidsbugarden - Tyinkrysset",3,,FFFFFF,000000
+51651,BB,"651","Røyslund - Dokka skysstasjon",3,,FFFFFF,000000
+51655,BB,"655","Etnedal sentralskule - Etna camping",3,,FFFFFF,000000
+51656,BB,"656","Etnedal rutebilstasjon/Etnedal sentralskule - Bjørgo",3,,FFFFFF,000000
+51657,BB,"657","Bagn - Fagernes skysstasjon/Stavedal",3,,FFFFFF,000000
+51658,BB,"658","Høljerast øst - Bagn skole - Sør Aurdal usk/Bagn",3,,FFFFFF,000000
+51659,BB,"659","Valdres vgs/Bagn skole - Sør Aurdal usk - Høneren",3,,FFFFFF,000000
+51661,BB,"231","Åsli - Lindlien/Nes i Ådal",3,,FFFFFF,000000
+51701,BB,"701","Hønefoss over Eggemoen - Toso over Eggemoen",3,,FFFFFF,000000
+51703,BB,"703","Harestua via Mohagen - Brandbu via Mohagen",3,,FFFFFF,000000
+51704,BB,"704","Hennung via Bjørklund skole - Brandbu",3,,FFFFFF,000000
+51705,BB,"705","Jevnaker via Grymyr/Haug - Brandbu via Grymyr",3,,FFFFFF,000000
+51706,BB,"706","Bestilles hos Gran Taxi - Bestilles hos Gran Taxi",3,,FFFFFF,000000
+51707,BB,"707","Jaren - Gran via Amundrud/Gran via Jaren",3,,FFFFFF,000000
+51709,BB,"709","Grymyr/Brandbu via Grymyr - Gran",3,,FFFFFF,000000
+51710,BB,"710","Riis - Gran stasjon - Gran stasjon",3,,FFFFFF,000000
+51711,BB,"711","SÅS idrettsplass/Oppdalen kirke - Lunner rådhus via SÅS",3,,FFFFFF,000000
+51715,BB,"715","Grua via Mylla - Lunner ungdomsskole/Lunner barneskole",3,,FFFFFF,000000
+51716,BB,"716","Lunner via Solheimstorget - Gran/Nesbakken - Sogn",3,,FFFFFF,000000
+51717,BB,"717","Kanada/Stortjernsvika - Felberg - Gran via Kalvsjø - Lunner",3,,FFFFFF,000000
+51719,BB,"719","Bjoneroa skole - Storgrunnvika",3,,FFFFFF,000000
+51720,BB,"720","Vik/Bjoneroa - Jevnaker/Bjoneroa",3,,FFFFFF,000000
+51722,BB,"722","Brandbuskolene - Amundrud/Einavoll",3,,FFFFFF,000000
+51723,BB,"723","Tangen - Horn",3,,FFFFFF,000000
+51747,BB,"747","Grenderute - Grenderute",3,,FFFFFF,000000
+51748,BB,"748","Servicebuss - Servicebuss",3,,FFFFFF,000000
+51800,BB,"800","Gjøvik - Hov",3,,FFFFFF,000000
+51801,BB,"801","Odnes skole/Dokka Bondlid - Gjøvik/Hov rutebilstasjon",3,,FFFFFF,000000
+51803,BB,"803","Hov - Horn",3,,FFFFFF,000000
+51805,BB,"805","Hov rutebilstasjon/Fryal skole - Gry",3,,FFFFFF,000000
+51806,BB,"806","Fluberg bru - Fryal skole",3,,FFFFFF,000000
+51810,BB,"810","Bestilles hos Hov Taxi - Bestilles hos Hov Taxi",3,,FFFFFF,000000
+51815,BB,"815","Sandmoen - Dokka skysstasjon",3,,FFFFFF,000000
+51820,BB,"820","Bruflat/Tranalia - Dokka skysstasjon",3,,FFFFFF,000000
+51821,BB,"821","Hugulia - Torpa barne- og ungdomsskole",3,,FFFFFF,000000
+51822,BB,"822","Lundgård - Dokka skysstasjon",3,,FFFFFF,000000
+51823,BB,"823","Torpa barne- og ungdomsskole - Dokka skysstasjon/Lundgård",3,,FFFFFF,000000
+51824,BB,"824","Torpa barne- og ungdomsskole - Storre - Vinjar - Torpa skole",3,,FFFFFF,000000
+51825,BB,"825","Dokka - Skartlia",3,,FFFFFF,000000
+51851,BB,"851","Dokka skysstasjon - Dokka skysstasjon",3,,FFFFFF,000000
+6003,BB,"3","Fjell - Kastanjesletta",3,,FFFFFF,000000
+6004,BB,"4","Kniveåsen - Bera terrasse/Bera",3,,FFFFFF,000000
+6005,BB,"5","Tors vei - Vinnes",3,,FFFFFF,000000
+6015,BB,"15","Austad skog - Underlia",3,,FFFFFF,000000
+6016,BB,"16","Mælen - Bragernes torg",3,,FFFFFF,000000
+6021,BB,"21","Tolerud - Bragernes torg",3,,FFFFFF,000000
+6022,BB,"22","Konnerud-Svingen - Bragernes torg",3,,FFFFFF,000000
+6024,BB,"24","Konnerud skole - Bragernes torg",3,,FFFFFF,000000
+6025,BB,"25","Gulskogen - Bragernes torg",3,,FFFFFF,000000
+6035,BB,"35","Fjell/Skoger kirke - Bragernes torg",3,,FFFFFF,000000
+6037,BB,"37","Stillerudveien/Kniveåsen - Marienlyst skole/St. Hallvard vgs.",3,,FFFFFF,000000
+6051,BB,"51","Mjøndalen stasjon - Drammen busstasjon",3,,FFFFFF,000000
+6052,BB,"52","Mjøndalen stasjon - Bragernes torg",3,,FFFFFF,000000
+6053,BB,"53","Åsen - Mjøndalen stasjon",3,,FFFFFF,000000
+6054,BB,"54","Hovjordet - Mjøndalen stasjon",3,,FFFFFF,000000
+6055,BB,"55","Hovjordet - Drammen busstasjon",3,,FFFFFF,000000
+6056,BB,"56","Eiker vidregående skole - Drammen Busstasjon via Gulskogen/Veiavangen skole",3,,FFFFFF,000000
+6057,BB,"57","Hovjordet - Stenseth/Eknes skole",3,,FFFFFF,000000
+6062,BB,"62","Sylling - Lierbyen bussterminal",3,,FFFFFF,000000
+6063,BB,"63","Sylling - Drammen",3,,FFFFFF,000000
+6064,BB,"64","Delekant - Sylling skole",3,,FFFFFF,000000
+6065,BB,"65","Hornstua - Sylling skole",3,,FFFFFF,000000
+6066,BB,"66","Baneveien - Lierbyen skole/Egge skole",3,,FFFFFF,000000
+6071,BB,"71","Asker stasjon - Drammen",3,,FFFFFF,000000
+6072,BB,"72","Lierskogen sentrum - Drammen busstasjon/St.Halvard/Lier vgs.",3,,FFFFFF,000000
+6073,BB,"73","Lierskogen sentrum - Drammen busstasjon",3,,FFFFFF,000000
+6079,BB,"79","Lahellkrysset/Lierkroa - Høvik skole/Gullaug skole",3,,FFFFFF,000000
+6081,BB,"81","Sætre bussterminal - Drammen busstasjon",3,,FFFFFF,000000
+6082,BB,"82","Røyken stasjon - Katrineåsen",3,,FFFFFF,000000
+6083,BB,"83","Røyken stasjon - Hyggen",3,,FFFFFF,000000
+6084,BB,"84","Slemmestad - Bråset",3,,FFFFFF,000000
+6085,BB,"85","Sætre Bussterminal - Holmsbu torg",3,,FFFFFF,000000
+6086,BB,"86","Sætre bussterminal - Verket fergeleie",3,,FFFFFF,000000
+6088,BB,"88","Sørensvingen - Sundbykrysset",3,,FFFFFF,000000
+6089,BB,"89","Verket fergeleie/Røyken vgs. - Kana/Verket fergeleie",3,,FFFFFF,000000
+6100,BB,"100","Vikersund bussterminal/Hønefoss sentrum - Drammen/Drammen busstasjon",3,,FFFFFF,000000
+6101,BB,"101","Vikersund bussterminal/Hokksund stasjon - Drammen/Drammen busstasjon",3,,FFFFFF,000000
+6102,BB,"102","Hokksund stasjon - Drammen",3,,FFFFFF,000000
+6103,BB,"103","Åmot skysstasjon E/Åmot skysstasjon - Åmot skysstasjon E",3,,FFFFFF,000000
+6104,BB,"104","Vikersund bussterminal - Åmot skysstasjon A",3,,FFFFFF,000000
+6105,BB,"105","Medalen/Bergshammeren - Åmot skysstasjon",3,,FFFFFF,000000
+6106,BB,"106","Åmot skysstasjon - Grava",3,,FFFFFF,000000
+6107,BB,"107","Prestfoss skole - Hiåsen",3,,FFFFFF,000000
+6108,BB,"108","Nakkerud - Kølabonn/Tyristrand",3,,FFFFFF,000000
+6109,BB,"109","Vikersund bussterminal - Vikersund bussterminal/Ruud kapell",3,,FFFFFF,000000
+6110,BB,"110","Noresund - Krøderen/Krøderengarasjen",3,,FFFFFF,000000
+6111,BB,"111","Korsbøen - Vikersund bussterminal",3,,FFFFFF,000000
+6112,BB,"112","Stalsberg skole - Kjemperudmyra",3,,FFFFFF,000000
+6113,BB,"113","Åmot skysstasjon/Geithus - Hatlekrysset",3,,FFFFFF,000000
+6114,BB,"114","Vikersund bussterminal - Badstuvika",3,,FFFFFF,000000
+6115,BB,"115","Hokksund stasjon - Kongsberg",3,,FFFFFF,000000
+6116,BB,"116","Skotselv kryss - Hokksund stasjon",3,,FFFFFF,000000
+6117,BB,"117","Ormåsen - Hokksund stasjon",3,,FFFFFF,000000
+6118,BB,"118","Sundet - Hokksund stasjon",3,,FFFFFF,000000
+6119,BB,"119","Sundet - Hokksund stasjon",3,,FFFFFF,000000
+6121,BB,"121","Skotselv skole/Åmot skysstasjon E - Åmot skysstasjon",3,,FFFFFF,000000
+6122,BB,"122","Vestfossen ungdomsskole - Sørby",3,,FFFFFF,000000
+6123,BB,"105","Åmot skysstasjon E - Tingstad bru",3,,FFFFFF,000000
+6132,BB,"132","Vestfossen u.skole - Ormåsen",3,,FFFFFF,000000
+6133,BB,"133","Hokksund stasjon - Hakavika/Sundet",3,,FFFFFF,000000
+6135,BB,"135","Hokksund skole - Torespæren øst",3,,FFFFFF,000000
+6136,BB,"136","Hokksund stasjon - Hammerfoss",3,,FFFFFF,000000
+6137,BB,"137","Hokksund stasjon - Hokksund stasjon/Åmot skysstasjon",3,,FFFFFF,000000
+6138,BB,"138","Skotsmoen - Røren skole",3,,FFFFFF,000000
+6139,BB,"139","St. Hallvard vgs./Drammen Busstasjon D - Eiker vgs/Hokksund stasjon",3,,FFFFFF,000000
+6169,BB,"169","Oslo bussterminal - Lierbyen bussterminal",3,,FFFFFF,000000
+6200,BB,"200","Oslo-kun avstigning - Hønefoss sentrum",3,,FFFFFF,000000
+6210,BB,"210","Sollihøgda - Hønefoss sentrum/Vik Senter",3,,FFFFFF,000000
+6211,BB,"211","Vik - Hønefoss sentrum",3,,FFFFFF,000000
+6212,BB,"212","Sundvollen sentrum - Hønefoss sentrum",3,,FFFFFF,000000
+6213,BB,"213","Røyse skole - Vik skole/Sundvollen oppvekstsenter",3,,FFFFFF,000000
+6214,BB,"214","Eikli skole- Hønefoss sentrum ",3,,FFFFFF,000000
+6221,BB,"221","Jevnaker rutebilstasjon - Hønefoss sentrum",3,,FFFFFF,000000
+6222,BB,"222","Oppenåsen - Hønefoss sentrum",3,,FFFFFF,000000
+6223,BB,"223","Smeden via Klekken - Hønefoss sentrum",3,,FFFFFF,000000
+6224,BB,"224","Smeden via Lisletta/Smeden via Lisletta-Haug - Hønefoss sentrum",3,,FFFFFF,000000
+6225,BB,"225","Viul - Hønefoss sentrum",3,,FFFFFF,000000
+6228,BB,"228","Hvervenmoen - Morgenbøen",3,,FFFFFF,000000
+6232,BB,"232","Hallingby nord - Hønefoss sentrum",3,,FFFFFF,000000
+6233,BB,"233","Elsrud/Begnamoen øvre - Hønefoss sentrum",3,,FFFFFF,000000
+6239,BB,"239","Nes skole - Rinna/Hengslet",3,,FFFFFF,000000
+6241,BB,"241","Noresund - Hønefoss",3,,FFFFFF,000000
+6242,BB,"242","Øst-Veme - Hønefoss sentrum",3,,FFFFFF,000000
+6243,BB,"243","Veien - Begnamoen øvre/Hønefoss sentrum",3,,FFFFFF,000000
+6244,BB,"244","Bårnås - Øst-Veme",3,,FFFFFF,000000
+6251,BB,"251","Tyristrand skole - Ask/Sandaker bru",3,,FFFFFF,000000
+6252,BB,"252","Hølen/Åmot - Sokna",3,,FFFFFF,000000
+6253,BB,"253","Steinbekken/Fjellsmark - Sokna",3,,FFFFFF,000000
+6254,BB,"254","Ask/Plogen - Hønefoss sentrum",3,,FFFFFF,000000
+6260,BB,"260","Oslo Lufthavn Gardermoen - Sundvollen sentrum",3,,FFFFFF,000000
+6301,BB,"301","Gol skysstasjon - Nesbyen",3,,FFFFFF,000000
+6302,BB,"302","Flåskole - Leknes",3,,FFFFFF,000000
+6303,BB,"303","Nes barneskole - Nesbyen stasjon/Svenkerud",3,,FFFFFF,000000
+6304,BB,"304","Flå skole - Bårdsplassen",3,,FFFFFF,000000
+6305,BB,"305","Flå sentrum - Stavn skole",3,,FFFFFF,000000
+6306,BB,"306","Storeli Nedre - Nes barneskole",3,,FFFFFF,000000
+6307,BB,"307","Stavn - Sokna",3,,FFFFFF,000000
+6310,BB,"310","Rukke - Nesbyen sentrum/Nesbyen stasjon",3,,FFFFFF,000000
+6320,BB,"320","Trillhus - Gol skysstasjon",3,,FFFFFF,000000
+6321,BB,"321","Åsgardan - Gol skysstasjon",3,,FFFFFF,000000
+6330,BB,"330","Geilo stasjon - Gol skysstasjon",3,,FFFFFF,000000
+6331,BB,"331","Sunhov/Vika - Hagafoss",3,,FFFFFF,000000
+6333,BB,"333","Geilo lufthavn Dagali - Geilo stasjon",3,,FFFFFF,000000
+6334,BB,"334","Ustaoset/Haugastøl - Geilo stasjon",3,,FFFFFF,000000
+6336,BB,"336","Bergsjø - Ål stasjon",3,,FFFFFF,000000
+6337,BB,"337","Lienkrysset/Lien Landbruksskole - Oppheimskrysset/Barskrind",3,,FFFFFF,000000
+6338,BB,"338","Liatoppen - Ål torget/Ål idrettshall",3,,FFFFFF,000000
+6339,BB,"339","Myking - Ål torget",3,,FFFFFF,000000
+6343,BB,"343","Leveld sk./Votndalen - Ål sentrum",3,,FFFFFF,000000
+6345,BB,"345","Tuva - Geilo stasjon",3,,FFFFFF,000000
+6360,BB,"360","Tuv - Gol stasjon",3,,FFFFFF,000000
+6361,BB,"361","Lio - Gol skysstasjon",3,,FFFFFF,000000
+6362,BB,"362","Grøv Hemsedal - Trøimhallen",3,,FFFFFF,000000
+6363,BB,"363","Feten snuplass - Trøimhallen",3,,FFFFFF,000000
+6401,BB,"401","Lindbojordet - Gamlegrendåsen nord",3,,FFFFFF,000000
+6403,BB,"403","Kongsberg knutepunkt - Skollenborg stasjon",3,,FFFFFF,000000
+6405,BB,"405","Kongsberg skisenter - Frydenbergåsen",3,,FFFFFF,000000
+6407,BB,"407","Teknologiparken/Kongsberg knutepunkt - Gamlegrendåsen sør",3,,FFFFFF,000000
+6410,BB,"410","Sagvoldbrua - Kongsberg/Kongsberg knutepunkt",3,,FFFFFF,000000
+6412,BB,"412","Krekling kryss - Skollenborg stasjon/Kongsberg knutepunkt",3,,FFFFFF,000000
+6415,BB,"415","Kongsberg knutepunkt - Jondalen",3,,FFFFFF,000000
+6417,BB,"417","Tunhovd snuplass - Øygarsgrend",3,,FFFFFF,000000
+6418,BB,"418","Flesberg skole - Rebberud",3,,FFFFFF,000000
+6419,BB,"419","Lampeland - Landerud",3,,FFFFFF,000000
+6420,BB,"420","Geilo stasjon - Kongsberg knutepunkt",3,,FFFFFF,000000
+6421,BB,"421","Grøterud - Kongsberg knutepunkt",3,,FFFFFF,000000
+6422,BB,"422","Flesberg skole - Kongsberg knutepunkt C/Lampeland",3,,FFFFFF,000000
+6423,BB,"423","Konningen/Lampeland - Laagveiskillet",3,,FFFFFF,000000
+6424,BB,"424","Svene - Gutterud",3,,FFFFFF,000000
+6425,BB,"425","Torsetlia - Rødberg skole",3,,FFFFFF,000000
+6426,BB,"426","Veggli skole - Rollag sentrum",3,,FFFFFF,000000
+6427,BB,"427","Veggli skole - Vorsethkrysset",3,,FFFFFF,000000
+6428,BB,"428","Veggli skole - Rosatd",3,,FFFFFF,000000
+6429,BB,"429","Uvdal skole - Fønstelien",3,,FFFFFF,000000
+6430,BB,"430","Svarstad - Kongsberg",3,,FFFFFF,000000
+6431,BB,"431","Haavengen - Kongsberghallen",3,,FFFFFF,000000
+6434,BB,"434","Gamlegrendåsen skole - Kongsberg knutepunkt",3,,FFFFFF,000000
+6435,BB,"435","Vikugrendi - Borgegrend snuplass/Norefjord",3,,FFFFFF,000000
+6436,BB,"436","Gran - Hvål/Vonheim kryss",3,,FFFFFF,000000
+6922,BB,"22N","Nattbuss Konnerud - Bragernes torg",3,,FFFFFF,000000
+6951,BB,"51N","Nattbuss Mjøndalen - Drammen busstasjon",3,,FFFFFF,000000
+7001,BB,"01","Kysthospitalet - Bromsveien",3,,FFFFFF,000000
+7002,BB,"02","Horten/Holmestrand - Tenvik/Hvasser",3,,FFFFFF,000000
+7003,BB,"03","Veldre - Tangen-Sandefjord",3,,FFFFFF,000000
+7011,BB,"011","Kun avstigning - Kun avstigning",3,,FFFFFF,000000
+7021,BB,"021","Holmestrand - Tønsberg",3,,FFFFFF,000000
+7022,BB,"022","Verdens Ende - Sundene-Tønsberg",3,,FFFFFF,000000
+7023,BB,"023","Tønsberg direkte - Horten direkte",3,,FFFFFF,000000
+7042,BB,"42","Gullhaug/Hof - Holmestrand",3,,FFFFFF,000000
+7043,BB,"43","Torud - Hof",3,,FFFFFF,000000
+7044,BB,"44","Hof - Sundbyfoss-Mossåsen/Hvittingfoss",3,,FFFFFF,000000
+7045,BB,"45","Holmestrand - Gullhaug",3,,FFFFFF,000000
+7047,BB,"47","Holmestrand - Kirkevoll",3,,FFFFFF,000000
+7070,BB,"70","Skoppum - Horten rutebilstasjon",3,,FFFFFF,000000
+7071,BB,"71","Horten - Horten rutebilstasjon",3,,FFFFFF,000000
+7072,BB,"72","Horten - Horten rutebilstasjon",3,,FFFFFF,000000
+7073,BB,"73","Horten - Horten rutebilstasjon",3,,FFFFFF,000000
+7074,BB,"74","Svinevold - Horten",3,,FFFFFF,000000
+7075,BB,"75","Bakkenteigen - Skoppum",3,,FFFFFF,000000
+7091,BB,"91","Sande - Drammen",3,,FFFFFF,000000
+7092,BB,"92","Svelvik - Svelvik ferjekai",3,,FFFFFF,000000
+7093,BB,"93","Skafjellåsen - Sande",3,,FFFFFF,000000
+7094,BB,"94","Holmestrand - Sande",3,,FFFFFF,000000
+7096,BB,"96","Sande - Drammen",3,,FFFFFF,000000
+7097,BB,"97","Skoger - Sande",3,,FFFFFF,000000
+7100,BB,"100","Tønsberg - Tønsberg",3,,FFFFFF,000000
+7108,BB,"108","Borgheim - Bergan",3,,FFFFFF,000000
+7109,BB,"109","Husøy - Tønsberg",3,,FFFFFF,000000
+7110,BB,"110","Tønsberg - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7111,BB,"111","Tønsberg - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7113,BB,"113","Robergrønningen - Torød",3,,FFFFFF,000000
+7114,BB,"114","Tønsberg - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7115,BB,"115","Vallø - Tønsberg",3,,FFFFFF,000000
+7116,BB,"116","Skallevold - Borgheim",3,,FFFFFF,000000
+7117,BB,"117","Tønsberg - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7118,BB,"118","Tønsberg - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7120,BB,"120","Kirkevoll - Tønsberg",3,,FFFFFF,000000
+7121,BB,"121","Hof - Tønsberg",3,,FFFFFF,000000
+7124,BB,"124","Høyjord-Heimdal - Tønsberg",3,,FFFFFF,000000
+7126,BB,"126","Kirkevoll - Tønsberg",3,,FFFFFF,000000
+7129,BB,"129","Stokke stasjon - Tønsberg",3,,FFFFFF,000000
+7130,BB,"130","Sørby/Bokemoa - Tønsberg",3,,FFFFFF,000000
+7134,BB,"134","Sandefjord - Himberg-Furustad",3,,FFFFFF,000000
+7135,BB,"135","Sandefjord - Hjertnespromenaden",3,,FFFFFF,000000
+7138,BB,"138","Råstad-Sandefjord - Sandefjord",3,,FFFFFF,000000
+7139,BB,"139","Sandefjord - Hjertnespromenaden",3,,FFFFFF,000000
+7150,BB,"150","Andebu - Sandefjord",3,,FFFFFF,000000
+7161,BB,"161","Gjekstad - Lasken",3,,FFFFFF,000000
+7163,BB,"163","Helgerød-Solløkka - Sandefjord",3,,FFFFFF,000000
+7168,BB,"168","Vøra-Tveitan - Sandefjord",3,,FFFFFF,000000
+7172,BB,"172","Åbol - Ringkollen",3,,FFFFFF,000000
+7173,BB,"173","Virik-Sjøstrand - Sandefjord",3,,FFFFFF,000000
+7175,BB,"175","Sandefjord lufthavn Torp - Torp stasjon",3,,FFFFFF,000000
+7206,BB,"206","Helgeroa - Larvik",3,,FFFFFF,000000
+7207,BB,"207","Kjose - Larvik",3,,FFFFFF,000000
+7208,BB,"208","Nevlunghavn - Hagalia",3,,FFFFFF,000000
+7210,BB,"210","Nordbyen - Gon",3,,FFFFFF,000000
+7214,BB,"214","Svarstad - Larvik stasjon",3,,FFFFFF,000000
+7215,BB,"215","Svarstad - Larvik stasjon",3,,FFFFFF,000000
+7220,BB,"220","Eftang - Klåstadkrysset",3,,FFFFFF,000000
+7221,BB,"221","Kjerringvik - Klåstadkrysset",3,,FFFFFF,000000
+7302,BB,"5002","Horten - Nedre Langgate",3,,FFFFFF,000000
+7330,BB,"5130","Stokke - Nedre Langgate",3,,FFFFFF,000000
+7391,BB,"5091","Svelvik-Berger - Bragernes torg",3,,FFFFFF,000000
+7394,BB,"5094","Horten - Bragernes torg",3,,FFFFFF,000000
+7396,BB,"5096","Skoger-Sande-Berger - Bragernes torg",3,,FFFFFF,000000
+7401,BB,"1100","Berg skole - Haga",3,,FFFFFF,000000
+7402,BB,"1101","Berg skole - Jordet skole",3,,FFFFFF,000000
+7403,BB,"1102","Thor Heyerdahl vgs - Helgeroa",3,,FFFFFF,000000
+7404,BB,"1103","Thor Heyerdahl vgs - Larvik stasjon",3,,FFFFFF,000000
+7405,BB,"1104","Thor Heyerdahl vgs - Guslandsvingen",3,,FFFFFF,000000
+7406,BB,"206","Stavern-Larvik - Helgeroa",3,,FFFFFF,000000
+7407,BB,"1106","Haga - Berg skole",3,,FFFFFF,000000
+7408,BB,"1107","Helgeroa - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7409,BB,"1108","Foldvik-Stavern - Jordet skole",3,,FFFFFF,000000
+7410,BB,"1110","Helgeroa - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7411,BB,"1111","Kjærstranda-Haga - Berg skole",3,,FFFFFF,000000
+7412,BB,"1112","Sandefjord vgs - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7413,BB,"221","Klåstadkrysset - Fjellvikveien",3,,FFFFFF,000000
+7414,BB,"1116","Thor Heyerdahl vgs - Jåberg stasjon",3,,FFFFFF,000000
+7415,BB,"221","Tjøllingvollen - Hemkrysset",3,,FFFFFF,000000
+7416,BB,"1118","Tjøllingvollen - Hemkrysset",3,,FFFFFF,000000
+7417,BB,"220","Thor Heyerdahl vgs - Eftang snuplass",3,,FFFFFF,000000
+7418,BB,"220","Klåstadkrysset - Eftang snuplass",3,,FFFFFF,000000
+7419,BB,"1121","Thor Heyerdahl vgs - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7420,BB,"1122","Tjøllingvollen - Santra",3,,FFFFFF,000000
+7421,BB,"1123","Hem - Tjodalyng skole",3,,FFFFFF,000000
+7422,BB,"1124","Skallist-Hem - Tjodalyng skole",3,,FFFFFF,000000
+7423,BB,"221","Klåstadkrysset - Tjodalyng skole",3,,FFFFFF,000000
+7424,BB,"220","Klåstadkrysset - Tjodalyng skole",3,,FFFFFF,000000
+7425,BB,"1127","Verningen-Auby - Tjodalyng skole",3,,FFFFFF,000000
+7426,BB,"1128","Bjønnes-Auby - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7427,BB,"1129","Skallist-Hem - Tjodalyng skole",3,,FFFFFF,000000
+7428,BB,"1130","Kjerringvik - Tjodalyng skole",3,,FFFFFF,000000
+7429,BB,"1131","Eftang - Tjodalyng skole",3,,FFFFFF,000000
+7430,BB,"1132","Eftang - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7431,BB,"1133","Verningen-Auby - Tjodalyng skole",3,,FFFFFF,000000
+7432,BB,"1134","Tjølling-Larvik - Sandefjord vg. skole III",3,,FFFFFF,000000
+7433,BB,"1135","Sandefjord - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7434,BB,"220","Klåstadkrysset - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7435,BB,"221","Klåstadkrysset - Klåstad",3,,FFFFFF,000000
+7436,BB,"1138","Skallist-Hem - Tjodalyng skole",3,,FFFFFF,000000
+7437,BB,"1139","Kjerringvik - Tjodalyng skole",3,,FFFFFF,000000
+7438,BB,"1140","Eftang - Tjodalyng skole",3,,FFFFFF,000000
+7439,BB,"1141","Verningen-Auby - Tjodalyng skole",3,,FFFFFF,000000
+7440,BB,"1142","Sandefjord - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7441,BB,"01","Sandefjord vgs - Larvik stasjon",3,,FFFFFF,000000
+7442,BB,"1144","Larvik - Sandefjord vg. skole III",3,,FFFFFF,000000
+7443,BB,"01","Larvik - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7444,BB,"1147","Enga - Ranvik u. skole",3,,FFFFFF,000000
+7445,BB,"1150","Tønsberg - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7446,BB,"1151","Framnes Skagerak - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7447,BB,"1152","Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7448,BB,"1153","Borre u.skole - Horten rutebilstasjon",3,,FFFFFF,000000
+7449,BB,"1154","Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7450,BB,"01","Sandefjord - Tønsberg stasjon",3,,FFFFFF,000000
+7451,BB,"1156","Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7452,BB,"1157","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7453,BB,"1158","Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7454,BB,"01","Tønsberg - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7455,BB,"1160","Sandefjord vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7456,BB,"01","Tønsberg - Enga",3,,FFFFFF,000000
+7457,BB,"1162","Sandefjord - Sandefjord vg. skole II",3,,FFFFFF,000000
+7458,BB,"01","Greveskogen vgs - Kjær",3,,FFFFFF,000000
+7459,BB,"01","Horten - Åsgårdstrand kirke",3,,FFFFFF,000000
+7460,BB,"1174","Borre u.skole - Vikveien",3,,FFFFFF,000000
+7461,BB,"1175","Borre u.skole - Kjær",3,,FFFFFF,000000
+7462,BB,"1176","Åsgårdstrand - Borre u. skole",3,,FFFFFF,000000
+7463,BB,"1177","Åsgårdstrand - Borre u. skole",3,,FFFFFF,000000
+7464,BB,"1178","Åsgårdstrand - Borre u. skole",3,,FFFFFF,000000
+7465,BB,"1179","Horten - Bergsåsen",3,,FFFFFF,000000
+7466,BB,"1180","Hengsrud-Knutstad - Solerød skole",3,,FFFFFF,000000
+7467,BB,"1181","Skoppum - Borre u. skole",3,,FFFFFF,000000
+7468,BB,"1182","Bergsåsen - Horten rutebilstasjon",3,,FFFFFF,000000
+7469,BB,"1183","Solerød skole - Revetal",3,,FFFFFF,000000
+7470,BB,"1184","Hengsrud-Revetal - Undrum",3,,FFFFFF,000000
+7471,BB,"1185","Hengsrud-Knutstad - Solerød skole",3,,FFFFFF,000000
+7472,BB,"1186","Adal - Borre u. skole",3,,FFFFFF,000000
+7473,BB,"1187","Granly skole - Åsgårdstrand kirke",3,,FFFFFF,000000
+7474,BB,"1188","Nykirke-Rygland - Borre u. skole",3,,FFFFFF,000000
+7475,BB,"1190","Horten - Horten rutebilstasjon",3,,FFFFFF,000000
+7476,BB,"74","Kirkevoll - Horten rutebilstasjon",3,,FFFFFF,000000
+7477,BB,"1192","Kirkevoll - Bekkajordet",3,,FFFFFF,000000
+7478,BB,"1193","Kjær - Borre u. skole",3,,FFFFFF,000000
+7479,BB,"1194","Skoppum - Borre u. skole",3,,FFFFFF,000000
+7480,BB,"1200","Furustad-Himberg - Virik skole",3,,FFFFFF,000000
+7481,BB,"1201","Furustad-Himberg - Ranvik u. skole",3,,FFFFFF,000000
+7482,BB,"162","Sandefjord - Skogan",3,,FFFFFF,000000
+7483,BB,"1203","Strand-Skogan - Breidablikk u. skole",3,,FFFFFF,000000
+7484,BB,"1204","Solbakken-Fevang - Breidablikk u. skole",3,,FFFFFF,000000
+7485,BB,"1205","Breidablikk usk - Linglemveien Bottveien",3,,FFFFFF,000000
+7486,BB,"1206","Solbakken-Fevang - Breidablikk u. skole",3,,FFFFFF,000000
+7487,BB,"162","Strand-Skogan - Sandefjord vg. skole II",3,,FFFFFF,000000
+7488,BB,"162","Sandefjord - Skogan",3,,FFFFFF,000000
+7489,BB,"1209","Strand-Skogan - Breidablikk u. skole",3,,FFFFFF,000000
+7490,BB,"1210","Furustad-Himberg - Virik skole",3,,FFFFFF,000000
+7491,BB,"1211","Hørdal-Klinestad - Fevang skole",3,,FFFFFF,000000
+7492,BB,"1213","Tingvoll-Kodal - Bugården u. skole",3,,FFFFFF,000000
+7493,BB,"1214","Rørkoll-Feen - Stokke stasjon",3,,FFFFFF,000000
+7494,BB,"1215","Sandefjord - Gjerstad",3,,FFFFFF,000000
+7495,BB,"1216","Kodal-Andebu - Gjerstad",3,,FFFFFF,000000
+7496,BB,"1217","Sandefjord - Granum gård",3,,FFFFFF,000000
+7497,BB,"138","Sandefjord vgs - Sørby",3,,FFFFFF,000000
+7498,BB,"138","Stokke - Sandefjord vg. skole",3,,FFFFFF,000000
+7499,BB,"1220","Hvitstein-Gjerstad - Sandefjord vg. skole II",3,,FFFFFF,000000
+7500,BB,"1221","Andebu - Sagmyra",3,,FFFFFF,000000
+7501,BB,"1222","Hvitstein-Gjerstad - Andebu skole",3,,FFFFFF,000000
+7502,BB,"1223","Kodal - Sagmyra",3,,FFFFFF,000000
+7503,BB,"1224","Tingvoll-Kodal - Haukerød skole",3,,FFFFFF,000000
+7504,BB,"1225","Hvitstein-Gjerstad - Andebu skole",3,,FFFFFF,000000
+7505,BB,"1226","Hvitstein-Gjerstad - Sandefjord vg. skole II",3,,FFFFFF,000000
+7506,BB,"1227","Sandefjord - Ranvik u. skole",3,,FFFFFF,000000
+7507,BB,"1228","Enga-Ranvik - Store Bergan skole",3,,FFFFFF,000000
+7508,BB,"1229","Enga-Ranvik - Ranvik u. skole",3,,FFFFFF,000000
+7509,BB,"1230","Tveitan-Framnes - Varden u. skole",3,,FFFFFF,000000
+7510,BB,"1231","Sandefjord - Sandefjord vg. skole II",3,,FFFFFF,000000
+7511,BB,"1232","Sandefjord - Ranvik u. skole",3,,FFFFFF,000000
+7512,BB,"1233","Varden usk - Hjertnespromenaden",3,,FFFFFF,000000
+7513,BB,"1234","Ranvik usk - Stub",3,,FFFFFF,000000
+7514,BB,"1235","Vøra-Tveitan - Varden u. skole",3,,FFFFFF,000000
+7515,BB,"1236","Kodal - Sagmyra",3,,FFFFFF,000000
+7516,BB,"1237","Tangen-Framnes - Varden u. skole",3,,FFFFFF,000000
+7517,BB,"1238","Melsomvik-Bogen - Bokemoa skole",3,,FFFFFF,000000
+7518,BB,"138","Sandefjord - Stokke stasjon",3,,FFFFFF,000000
+7519,BB,"162","Sandefjord - Skogan",3,,FFFFFF,000000
+7520,BB,"162","Sandefjord - Skogan",3,,FFFFFF,000000
+7521,BB,"138","Sandefjord - Melsom vg. skole",3,,FFFFFF,000000
+7522,BB,"163","Sandefjord - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7523,BB,"1244","Hørdal-Klinestad - Fevang skole",3,,FFFFFF,000000
+7524,BB,"1245","Melsomvik-Bogen - Bokemoa skole",3,,FFFFFF,000000
+7525,BB,"138","Sandefjord - Stokke stasjon",3,,FFFFFF,000000
+7526,BB,"1247","Melsomvik-Bogen - Bokemoa skole",3,,FFFFFF,000000
+7527,BB,"138","Melsom vgs - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7528,BB,"1249","Bokemoa-Stokke usk - Åsly",3,,FFFFFF,000000
+7529,BB,"1250","Sandefjord - Sandefjord vg. skole II",3,,FFFFFF,000000
+7530,BB,"1251","Tveitan-Framnes - Varden u. skole",3,,FFFFFF,000000
+7531,BB,"1252","Enga - Ranvik u. skole",3,,FFFFFF,000000
+7532,BB,"138","Sandefjord - Breidablikk u. skole",3,,FFFFFF,000000
+7533,BB,"1255","Enga-Ranvik - Ranvik u. skole",3,,FFFFFF,000000
+7534,BB,"1257","Sagmyra - Bugården u. skole",3,,FFFFFF,000000
+7535,BB,"1258","Råstad-Skravestad - Breidablikk u. skole",3,,FFFFFF,000000
+7536,BB,"1259","Sandefjord - Melsom vg. skole",3,,FFFFFF,000000
+7537,BB,"1262","Vøra-Tveitan - Varden u. skole",3,,FFFFFF,000000
+7538,BB,"1263","Tangen-Framnes - Varden u. skole",3,,FFFFFF,000000
+7539,BB,"1264","Ranvik usk - Enga",3,,FFFFFF,000000
+7540,BB,"1265","Sandefjord - Framnes Skagerak",3,,FFFFFF,000000
+7541,BB,"1268","Vøra-Tveitan - Varden u. skole",3,,FFFFFF,000000
+7542,BB,"1270","Tangen-Framnes - Varden u. skole",3,,FFFFFF,000000
+7543,BB,"1280","Thor Heyerdahl vgs - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7544,BB,"1281","Meieriet - Larvik sentrumsterminal",3,,FFFFFF,000000
+7545,BB,"1282","Haukerød-Sandefj. - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7546,BB,"1283","Larvik - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7547,BB,"1284","Haukerød-Sandefj. - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7548,BB,"1285","Larvik - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7549,BB,"1286","Verningen-Sandefj - Hedrum u. skole",3,,FFFFFF,000000
+7550,BB,"03","Skolmar - Asnes",3,,FFFFFF,000000
+7551,BB,"03","Sandefjord - Sandefjord vg. skole II",3,,FFFFFF,000000
+7552,BB,"1289","Framnes Skagerak - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7553,BB,"1291","Thor Heyerdahl vgs - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7554,BB,"03","Sandefjord - Sandefjord vg. skole II",3,,FFFFFF,000000
+7555,BB,"1293","Framnes Skagerak - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7556,BB,"1294","Sandefjord - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7557,BB,"1295","Krokemoa-Larvik - Sandefjord rutebilstasjon",3,,FFFFFF,000000
+7558,BB,"1300","Larvik - Larvik sentrumsterminal",3,,FFFFFF,000000
+7559,BB,"1301","Vassvik-Helgeroa - Sky skole",3,,FFFFFF,000000
+7560,BB,"208","Nevlunghavn - Larvik sentrumsterminal",3,,FFFFFF,000000
+7561,BB,"1303","Thor Heyerdahl vgs - Haga",3,,FFFFFF,000000
+7562,BB,"1304","Ra usk-Sky skole - Tvedalen",3,,FFFFFF,000000
+7563,BB,"1305","Tvetenås-Helgeroa - Sky skole",3,,FFFFFF,000000
+7564,BB,"1306","Tvedalen-Tanum - Berg skole",3,,FFFFFF,000000
+7565,BB,"1307","Berg skole - Bratthagen",3,,FFFFFF,000000
+7566,BB,"1308","Ra u.skole - Nevlunghavn",3,,FFFFFF,000000
+7567,BB,"1309","Sky skole - Tveteneåsen",3,,FFFFFF,000000
+7568,BB,"1310","Larvik - Ra u. skole",3,,FFFFFF,000000
+7569,BB,"1311","Nevlunghavn - Thor Heyerdahl vg. skole II",3,,FFFFFF,000000
+7570,BB,"1312","Tvetenås-Helgeroa - Sky skole",3,,FFFFFF,000000
+7571,BB,"1313","Tvetenåsen - Sky skole",3,,FFFFFF,000000
+7572,BB,"1314","Tvetenåsen - Sky skole",3,,FFFFFF,000000
+7573,BB,"1315","Tvetenåsen - Ra u. skole",3,,FFFFFF,000000
+7574,BB,"1325","Lardal skole - Styrvoll",3,,FFFFFF,000000
+7575,BB,"1326","Helgeland-Steinsholt - Lardal skole",3,,FFFFFF,000000
+7576,BB,"1328","Helgeland-Steinsholt - Lardal skole",3,,FFFFFF,000000
+7577,BB,"1330","Lardal skole - Steinsholt",3,,FFFFFF,000000
+7578,BB,"214","Kvelde-Larvik - Lardal skole",3,,FFFFFF,000000
+7579,BB,"214","Kvelde-Svarstad - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7580,BB,"214","Kvelde-Larvik - Svarstad bussgarasjen",3,,FFFFFF,000000
+7581,BB,"214","Thor Heyerdahl vgs - Larvik stasjon",3,,FFFFFF,000000
+7582,BB,"214","Kvelde-Larvik - Lardal skole",3,,FFFFFF,000000
+7583,BB,"214","Kvelde-Svarstad - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7584,BB,"214","Svarstad - Skjerven",3,,FFFFFF,000000
+7585,BB,"1339","Ra u.skole - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7586,BB,"1343","Kvelde skole - Rien",3,,FFFFFF,000000
+7587,BB,"1344","Utkleiv-Rimstad - Hvarnes skole",3,,FFFFFF,000000
+7588,BB,"1345","Utkleiv-Rimstad - Hvarnes skole",3,,FFFFFF,000000
+7589,BB,"1346","Sundet-Bommestad - Kvelde skole",3,,FFFFFF,000000
+7590,BB,"1347","Kvelde - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7591,BB,"1348","Skinmo - Sundet",3,,FFFFFF,000000
+7592,BB,"1349","Lardal skole - Svarstad",3,,FFFFFF,000000
+7593,BB,"1350","Kviberg - Lardal skole",3,,FFFFFF,000000
+7594,BB,"1351","Brufoss-Kviberg - Lardal skole",3,,FFFFFF,000000
+7595,BB,"1352","Hedrum skole - Gjone krysset",3,,FFFFFF,000000
+7596,BB,"1353","Kvelde skole - Bjerke nord",3,,FFFFFF,000000
+7597,BB,"1354","Farrisbygda - Kvelde skole",3,,FFFFFF,000000
+7598,BB,"1355","Bjerke-Kvelde - Hedrum skole",3,,FFFFFF,000000
+7599,BB,"1356","Bjerke-Kvelde - Hedrum u. skole",3,,FFFFFF,000000
+7600,BB,"1357","Farrisbygda - Kvelde skole",3,,FFFFFF,000000
+7601,BB,"1358","Farrisbygda - Kvelde skole",3,,FFFFFF,000000
+7602,BB,"1359","Farrisbygda - Kvelde skole",3,,FFFFFF,000000
+7603,BB,"214","Thor Heyerdahl vgs - Steinsholt Stranda",3,,FFFFFF,000000
+7604,BB,"1361","Thor Heyerdahl vgs - Tangen Engane",3,,FFFFFF,000000
+7605,BB,"1362","Kvelde skole - Bommestad",3,,FFFFFF,000000
+7606,BB,"1363","Åsrum-Sundet - Hedrum skole",3,,FFFFFF,000000
+7607,BB,"1364","Åsrum-Sundet - Thor Heyerdahl vg. skole",3,,FFFFFF,000000
+7608,BB,"1365","Sundet-Bommestad - Kvelde skole",3,,FFFFFF,000000
+7609,BB,"1366","Thor Heyerdahl vgs - Åsrum",3,,FFFFFF,000000
+7610,BB,"1367","Larvik - Ra u. skole",3,,FFFFFF,000000
+7611,BB,"1368","Larvik - Ono snuplass",3,,FFFFFF,000000
+7612,BB,"1369","Vestmarka - Hedrum u. skole",3,,FFFFFF,000000
+7613,BB,"1370","Vestmarka - Hedrum skole",3,,FFFFFF,000000
+7614,BB,"1371","Vestmarka - Hedrum u. skole",3,,FFFFFF,000000
+7615,BB,"1372","Hvårå-Rien - Kvelde skole",3,,FFFFFF,000000
+7616,BB,"1373","Lardal skole - Otterstad",3,,FFFFFF,000000
+7617,BB,"1374","Hem-Skjerven - Lardal skole",3,,FFFFFF,000000
+7618,BB,"1375","Hem-Skjerven - Lardal skole",3,,FFFFFF,000000
+7619,BB,"1376","Svarstad - Lie",3,,FFFFFF,000000
+7620,BB,"1377","Kroken-Lie - Svarstad",3,,FFFFFF,000000
+7621,BB,"1378","Hem-Skjerven - Lardal u. skole",3,,FFFFFF,000000
+7622,BB,"1379","Brufoss-Kviberg - Lardal u. skole",3,,FFFFFF,000000
+7623,BB,"1380","Helgeland-Steinsholt - Lardal u. skole",3,,FFFFFF,000000
+7624,BB,"1381","Svarstad - Hvittingfoss sentrum",3,,FFFFFF,000000
+7625,BB,"1382","Lie-Hvittingfoss - Svarstad",3,,FFFFFF,000000
+7626,BB,"1383","Svarstad - Kroken",3,,FFFFFF,000000
+7627,BB,"1384","Vestmarka - Fagerli skole",3,,FFFFFF,000000
+7628,BB,"1385","Verningen-Sundet - Hedrum u. skole",3,,FFFFFF,000000
+7629,BB,"1386","Verningen-Sundet - Hedrum u. skole",3,,FFFFFF,000000
+7630,BB,"1387","Åsrum-Sundet - Hedrum u. skole",3,,FFFFFF,000000
+7631,BB,"1388","Åsrum-Sundet - Hedrum u. skole",3,,FFFFFF,000000
+7632,BB,"1389","Thor Heyerdahl vgs - Norheim",3,,FFFFFF,000000
+7633,BB,"1500","Re vg skole - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7634,BB,"1501","Tønsberg - Bergsåsen",3,,FFFFFF,000000
+7635,BB,"1502","Dalsroa-Andebu - Høyjord skole",3,,FFFFFF,000000
+7636,BB,"1503","Tønsberg - Moland",3,,FFFFFF,000000
+7637,BB,"1504","Tønsberg - Bergsåsen",3,,FFFFFF,000000
+7638,BB,"1505","Re vg skole - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7639,BB,"1507","Sem skole - Hogsnesbakken nedre",3,,FFFFFF,000000
+7640,BB,"1508","Revetal u.skole - Sem skole",3,,FFFFFF,000000
+7641,BB,"1509","Revetal u.skole- Svinevoll ",3,,FFFFFF,000000
+7642,BB,"1510","Re vg skole - Andebu sentrum",3,,FFFFFF,000000
+7643,BB,"124","Andebu - Heimdal",3,,FFFFFF,000000
+7644,BB,"1512","Ramnes skole - Revetal u. skole",3,,FFFFFF,000000
+7645,BB,"1513","Ramnes skole - Ramnes Tingvoll",3,,FFFFFF,000000
+7646,BB,"1514","Barkost-Fon - Kirkevold",3,,FFFFFF,000000
+7647,BB,"1515","Strange-Svinevoll - Kirkevold",3,,FFFFFF,000000
+7648,BB,"1516","Kihle-Vivestad - Ramnes skole",3,,FFFFFF,000000
+7649,BB,"1517","Fossan-Myre - Røråstoppen skole",3,,FFFFFF,000000
+7650,BB,"1518","Linnestad-Bjune - Ramnes skole",3,,FFFFFF,000000
+7651,BB,"1519","Tønsberg - Bergsåsen",3,,FFFFFF,000000
+7652,BB,"1521","Linnestad-Bjune - Ramnes skole",3,,FFFFFF,000000
+7653,BB,"1522","Revetal - Ramnes skole",3,,FFFFFF,000000
+7654,BB,"1523","Kihle-Vivestad - Røråstoppen skole",3,,FFFFFF,000000
+7655,BB,"1524","Andebu - Bergsåsen",3,,FFFFFF,000000
+7656,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7657,BB,"1526","Fon - Revetal",3,,FFFFFF,000000
+7658,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7659,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7660,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7661,BB,"1530","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7662,BB,"1531","Teigar u.skole - Husøy brygge",3,,FFFFFF,000000
+7663,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7664,BB,"116","Borgheim - Vallø",3,,FFFFFF,000000
+7665,BB,"1534","Bjelland-Hogsnes - Sem skole",3,,FFFFFF,000000
+7666,BB,"116","Tønsberg - Løveid",3,,FFFFFF,000000
+7667,BB,"1536","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7668,BB,"1537","Volden-Ringshaug - Klokkeråsen",3,,FFFFFF,000000
+7669,BB,"1538","Åsgårdstrand-Rom - Ringshaug u. skole",3,,FFFFFF,000000
+7670,BB,"1539","Oterbekk-Oserød - Borgheim u. skole",3,,FFFFFF,000000
+7671,BB,"1540","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7672,BB,"1541","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7673,BB,"1542","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7674,BB,"1543","Teigar u.skole - Husøy brygge",3,,FFFFFF,000000
+7675,BB,"1544","Husøy - Teigar u. skole",3,,FFFFFF,000000
+7676,BB,"1545","Husøy - Teigar u. skole",3,,FFFFFF,000000
+7677,BB,"1546","Brattås skole - Tinghaug",3,,FFFFFF,000000
+7678,BB,"1548","Tenvik-Kjøpmanns. - Brattås skole",3,,FFFFFF,000000
+7679,BB,"1549","Tenvik-Stangeby - Brattås skole",3,,FFFFFF,000000
+7680,BB,"1550","Oterbekk-Oserød - Borgheim u. skole",3,,FFFFFF,000000
+7681,BB,"1551","Borgh.-Steinersk.. - Borgheim",3,,FFFFFF,000000
+7682,BB,"1552","Husøy-Teie - Borgheim u. skole",3,,FFFFFF,000000
+7683,BB,"1553","Borgheim u.skole - Teie torv",3,,FFFFFF,000000
+7684,BB,"1554","Borgheim u.skole - Vetan Movikveien",3,,FFFFFF,000000
+7685,BB,"1555","Knarberg-Hjemseng - Borgheim u. skole",3,,FFFFFF,000000
+7686,BB,"1556","Ekenes-Torød - Borgheim u. skole",3,,FFFFFF,000000
+7687,BB,"1557","Borgheim u.skole - Bergan",3,,FFFFFF,000000
+7688,BB,"1558","Skjelland-Høyjord - Andebu skole",3,,FFFFFF,000000
+7689,BB,"124","Andebu - Lønnskoll",3,,FFFFFF,000000
+7690,BB,"1560","Torød-Strengsdal - Steinerskolen i Vestfold",3,,FFFFFF,000000
+7691,BB,"1561","Tønsberg - Borgheim u. skole",3,,FFFFFF,000000
+7692,BB,"1563","Høyjord skole - Dal Dalsroaveien",3,,FFFFFF,000000
+7693,BB,"124","Dalsroa-Andebu - Høyjord skole",3,,FFFFFF,000000
+7694,BB,"1565","Revetal-Bergsåsen - Vivestad ungdomslokale",3,,FFFFFF,000000
+7695,BB,"1566","Borgheim u.skole - Årøysund",3,,FFFFFF,000000
+7696,BB,"1567","Tønsberg - Bergsåsen",3,,FFFFFF,000000
+7697,BB,"1568","Tønsberg - Bergsåsen",3,,FFFFFF,000000
+7698,BB,"1569","Ramnes-Revetal - Sjue sag",3,,FFFFFF,000000
+7699,BB,"1570","Skjelland-Berg - Andebu skole",3,,FFFFFF,000000
+7700,BB,"1571","Nauen - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7701,BB,"1572","Lindhøy-Steinersk - Verdens Ende",3,,FFFFFF,000000
+7702,BB,"1573","Grimestad-Sundene - Lindhøy skole",3,,FFFFFF,000000
+7703,BB,"124","Heimdal - Andebu sentrum",3,,FFFFFF,000000
+7704,BB,"1575","Verdens Ende - Lindhøy skole",3,,FFFFFF,000000
+7705,BB,"1576","Verdens Ende - Lindhøy skole",3,,FFFFFF,000000
+7706,BB,"1577","Tønsberg - Sundene",3,,FFFFFF,000000
+7707,BB,"1578","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7708,BB,"1579","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7709,BB,"1580","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7710,BB,"1581","Tønsberg - Nauen",3,,FFFFFF,000000
+7711,BB,"1582","Granly skole - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7712,BB,"1583","Tønsberg - Granly skole",3,,FFFFFF,000000
+7713,BB,"02","Tønsberg - Enggata",3,,FFFFFF,000000
+7714,BB,"1585","Knarberg-Hjemseng - Borgheim u. skole",3,,FFFFFF,000000
+7715,BB,"1586","Bakkenteigen-Horten - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7716,BB,"1587","Husøy - Teigar u. skole",3,,FFFFFF,000000
+7717,BB,"1588","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7718,BB,"1589","Svelvikst.-Mågerø - Lindhøy skole",3,,FFFFFF,000000
+7719,BB,"1590","Grimestad-Sundene - Lindhøy skole",3,,FFFFFF,000000
+7720,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7721,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7722,BB,"113","Eik - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7723,BB,"02","Tønsberg - Enggata",3,,FFFFFF,000000
+7724,BB,"02","Horten - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7725,BB,"1597","Vivestad - Høyjord skole",3,,FFFFFF,000000
+7726,BB,"1598","Vivestad-Gravdal - Høyjord skole",3,,FFFFFF,000000
+7727,BB,"124","Heimdal-Vivestad - Andebu skole",3,,FFFFFF,000000
+7728,BB,"1600","Årøysund-Movik - Borgheim u. skole",3,,FFFFFF,000000
+7729,BB,"1601","Årøysund-Movik - Borgheim u. skole",3,,FFFFFF,000000
+7730,BB,"1602","Høyjord-Heimdal - Andebu skole",3,,FFFFFF,000000
+7731,BB,"1603","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7732,BB,"1605","Borgheim u.skole - Sundene",3,,FFFFFF,000000
+7733,BB,"1609","Tjøme-Lindhøy - Mågerø",3,,FFFFFF,000000
+7734,BB,"1610","Mågerø - Sundene",3,,FFFFFF,000000
+7735,BB,"022","Verdens Ende - Greveskogen vg. skole",3,,FFFFFF,000000
+7736,BB,"1612","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7737,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7738,BB,"1614","Borgheim u.skole - Husøy brygge",3,,FFFFFF,000000
+7739,BB,"1620","Greveskogen vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7740,BB,"02","Borgheim - Enggata",3,,FFFFFF,000000
+7741,BB,"1623","Borgheim - Knarberg",3,,FFFFFF,000000
+7742,BB,"1626","Sandefjord vgs - Jarlsberg travbane fv. 303",3,,FFFFFF,000000
+7743,BB,"1627","Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7744,BB,"1628","Stokke-Vear - Sandefjord vg. skole III",3,,FFFFFF,000000
+7745,BB,"1630","Kjøpmannskjær - Brattås skole",3,,FFFFFF,000000
+7746,BB,"130","Tønsberg - Vearveien",3,,FFFFFF,000000
+7747,BB,"1632","Bjelland-Hogsnes - Sem skole",3,,FFFFFF,000000
+7748,BB,"1633","Færder vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7749,BB,"1634","Bokemoa-Stokke usk - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7750,BB,"130","Tønsberg - Vearveien",3,,FFFFFF,000000
+7751,BB,"1636","Re vg skole - Gjennestad",3,,FFFFFF,000000
+7752,BB,"1637","Stokke - Bergsåsen",3,,FFFFFF,000000
+7753,BB,"1638","Tønsberg - Melsom skole",3,,FFFFFF,000000
+7754,BB,"1639","Storevar-Stokke - Melsom skole",3,,FFFFFF,000000
+7755,BB,"1640","Re vg skole - Sørby",3,,FFFFFF,000000
+7756,BB,"1641","Tønsberg - Bokemoa skole",3,,FFFFFF,000000
+7757,BB,"129","Stokke - Greveskogen vg. skole",3,,FFFFFF,000000
+7758,BB,"1643","Dalen-Dyrsø - Bokemoa skole",3,,FFFFFF,000000
+7759,BB,"1644","Melsom-Vear skole - Sem",3,,FFFFFF,000000
+7760,BB,"1645","Tønsberg - Melsom skole",3,,FFFFFF,000000
+7761,BB,"1646","Dyrsø-Tveitan - Vennerød skole",3,,FFFFFF,000000
+7762,BB,"1647","Dyrsø-Tveitan - Vennerød skole",3,,FFFFFF,000000
+7763,BB,"1648","Ramsum-Stokke usk - Dalenkrysset",3,,FFFFFF,000000
+7764,BB,"1649","Vestre Skjee - Vennerød skole",3,,FFFFFF,000000
+7765,BB,"1650","Fossnes-V.Skjee - Bokemoa skole",3,,FFFFFF,000000
+7766,BB,"1651","Bokemoa-Stokke usk - Kleppan",3,,FFFFFF,000000
+7767,BB,"1652","Rørkoll-Dalen - Bokemoa skole",3,,FFFFFF,000000
+7768,BB,"02","Tønsberg - Ormelet",3,,FFFFFF,000000
+7769,BB,"1654","Rørkoll-Dalen - Bokemoa skole",3,,FFFFFF,000000
+7770,BB,"1655","Jarberg-Vear - Ramnes skole",3,,FFFFFF,000000
+7771,BB,"1656","Greveskogen vgs - Klopp",3,,FFFFFF,000000
+7772,BB,"130","Tønsberg - Vearveien",3,,FFFFFF,000000
+7773,BB,"1658","Storevar-Stokke - Vear skole",3,,FFFFFF,000000
+7774,BB,"1660","Gauterød-Løveid - Greveskogen vg. skole",3,,FFFFFF,000000
+7775,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7776,BB,"124","Høyjord-Heimdal - Andebu sentrum",3,,FFFFFF,000000
+7777,BB,"1664","Hvasser - Steinerskolen i Vestfold",3,,FFFFFF,000000
+7778,BB,"1665","Storevar-Stokke - Melsom skole",3,,FFFFFF,000000
+7779,BB,"111","Tønsberg - Narverød",3,,FFFFFF,000000
+7780,BB,"1670","Tønsberg - Eiktoppen",3,,FFFFFF,000000
+7781,BB,"02","Tønsberg - Borgheim",3,,FFFFFF,000000
+7782,BB,"1672","Jarberg - Ramnes skole",3,,FFFFFF,000000
+7783,BB,"1673","Jarberg - Røråstoppen skole",3,,FFFFFF,000000
+7784,BB,"1674","Greveskogen-Wang - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7785,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7786,BB,"1676","Tønsberg - Greveskogen vg. skole",3,,FFFFFF,000000
+7787,BB,"022","Tjøme-Lindhøy - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7788,BB,"113","Robergrønningen - Dreggveien",3,,FFFFFF,000000
+7789,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7790,BB,"1682","Barkost-Fon - Kirkevold",3,,FFFFFF,000000
+7791,BB,"1683","Barkost-Fon - Kirkevold",3,,FFFFFF,000000
+7792,BB,"1685","Hvasser - Lindhøy skole",3,,FFFFFF,000000
+7793,BB,"1687","Tønsberg - Borgheim u. skole",3,,FFFFFF,000000
+7794,BB,"1688","Tønsberg - Borgheim u. skole",3,,FFFFFF,000000
+7795,BB,"1689","Bakkenteigen via Eik - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7796,BB,"116","Tønsberg - Vallø",3,,FFFFFF,000000
+7797,BB,"113","Eik - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7798,BB,"1692","Hvasser - Lindhøy skole",3,,FFFFFF,000000
+7799,BB,"1693","Vestveien-Mågerø - Lindhøy skole",3,,FFFFFF,000000
+7800,BB,"1694","Grimestad-Sundene - Lindhøy skole",3,,FFFFFF,000000
+7801,BB,"113","Eik - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7802,BB,"1696","Husøy-Teie - Borgheim u. skole",3,,FFFFFF,000000
+7803,BB,"1697","Torød-Strengsdal - Steinerskolen i Vestfold",3,,FFFFFF,000000
+7804,BB,"113","Tønsberg - Syrbekk",3,,FFFFFF,000000
+7805,BB,"113","Eik - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7806,BB,"1700","Byskogen skole - Brendsrød",3,,FFFFFF,000000
+7807,BB,"1701","Byskogen skole - Tveitan bru",3,,FFFFFF,000000
+7808,BB,"1702","Byskogen skole - Hogsnesbakken nedre",3,,FFFFFF,000000
+7809,BB,"1703","Sem - Byskogen skole",3,,FFFFFF,000000
+7810,BB,"1704","Ås-Sem - Byskogen skole",3,,FFFFFF,000000
+7811,BB,"1705","Bjelland-Hogsnes - Byskogen skole",3,,FFFFFF,000000
+7812,BB,"1709","Sem - Byskogen skole",3,,FFFFFF,000000
+7813,BB,"1710","Ås-Sem - Byskogen skole",3,,FFFFFF,000000
+7814,BB,"1711","Bjelland-Hogsnes - Byskogen skole",3,,FFFFFF,000000
+7815,BB,"1712","Færder vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7816,BB,"1713","Færder vgs - Tønsberg rutebilstasjon",3,,FFFFFF,000000
+7817,BB,"1715","Tønsberg - Færder vg. skole",3,,FFFFFF,000000
+7818,BB,"1717","Tønsberg - Færder vg. skole",3,,FFFFFF,000000
+7819,BB,"1718","Tønsberg - Færder vg. skole",3,,FFFFFF,000000
+7820,BB,"1719","Tønsberg - Færder vg. skole",3,,FFFFFF,000000
+7821,BB,"1720","Kjøpmannskjær - Borgheim u. skole",3,,FFFFFF,000000
+7822,BB,"1724","Rørkoll-Dalen - Bokemoa skole",3,,FFFFFF,000000
+7823,BB,"1725","Storevar-Melsom - Bokemoa skole",3,,FFFFFF,000000
+7824,BB,"1726","Dalen-Dyrsø - Bokemoa skole",3,,FFFFFF,000000
+7825,BB,"1727","Fossnes-V.Skjee - Bokemoa skole",3,,FFFFFF,000000
+7826,BB,"1730","Dalen-Dyrsø - Bokemoa skole",3,,FFFFFF,000000
+7827,BB,"1731","Fossnes-V.Skjee - Bokemoa skole",3,,FFFFFF,000000
+7828,BB,"1732","Rørkoll-Dalen - Bokemoa skole",3,,FFFFFF,000000
+7829,BB,"1733","Storevar-Melsom - Bokemoa skole",3,,FFFFFF,000000
+7830,BB,"1735","Storevar-Stokke - Vear skole",3,,FFFFFF,000000
+7831,BB,"1736","Stokke-Tønsberg - Sandefjord vg. skole III",3,,FFFFFF,000000
+7832,BB,"1800","Skafjellåsen - Haga skole",3,,FFFFFF,000000
+7833,BB,"1801","Skoger-Klevjerhagen - Skoger stasjon",3,,FFFFFF,000000
+7834,BB,"1802","Berger - Svelvik u. skole",3,,FFFFFF,000000
+7835,BB,"1803","Sande u.skole - Bjerkøya",3,,FFFFFF,000000
+7836,BB,"1804","Haga skole - Granbakken",3,,FFFFFF,000000
+7837,BB,"1805","Tørkop - Sande vg. skole",3,,FFFFFF,000000
+7838,BB,"1806","Skafjellåsen - Haga skole",3,,FFFFFF,000000
+7839,BB,"1807","Skoger-Klevjerhagen - Kjeldås",3,,FFFFFF,000000
+7840,BB,"1808","Klevjerhagen nord - Skoger stasjon",3,,FFFFFF,000000
+7841,BB,"1812","Sande vgs - Svelvik ferjekai",3,,FFFFFF,000000
+7842,BB,"1813","Bragernes torg - Svelvik u. skole",3,,FFFFFF,000000
+7843,BB,"1814","Sande stasjon - Haga skole",3,,FFFFFF,000000
+7844,BB,"1815","Mariås - Sande vg. skole",3,,FFFFFF,000000
+7845,BB,"1817","Sande vg. skole - Bragernes torg",3,,FFFFFF,000000
+7846,BB,"1818","Sande vgs - Mariås",3,,FFFFFF,000000
+7847,BB,"1819","Mariås - Sande vg. skole",3,,FFFFFF,000000
+7848,BB,"1820","Sande - Sande vg. skole",3,,FFFFFF,000000
+7849,BB,"1823","Sande u.skole - Jonsrud",3,,FFFFFF,000000
+7850,BB,"1825","Svelvik u. skole - Tørkop",3,,FFFFFF,000000
+7851,BB,"1827","Mariås - Svelvik u. skole",3,,FFFFFF,000000
+7852,BB,"1831","Svelvik u. skole - Svelvik u. skole",3,,FFFFFF,000000
+7853,BB,"1833","Sande stasjon - Haga skole",3,,FFFFFF,000000
+7854,BB,"1834","Haga skole - Sande stasjon",3,,FFFFFF,000000
+7855,BB,"1837","Sande stasjon - Sande vg. skole",3,,FFFFFF,000000
+7856,BB,"1838","Selvik - Selvik skole",3,,FFFFFF,000000
+7857,BB,"1839","Skoger-Klevjerhagen - Kjeldås",3,,FFFFFF,000000
+7858,BB,"1840","Berger kafe - Haga skole",3,,FFFFFF,000000
+7859,BB,"1842","Holm-Ødegården - Haga skole",3,,FFFFFF,000000
+7860,BB,"1843","Haga skole - Gravningen",3,,FFFFFF,000000
+7861,BB,"1844","Berger kafe - Svelvik u. skole",3,,FFFFFF,000000
+7862,BB,"1845","Svelvik u. skole - Strandveien",3,,FFFFFF,000000
+7863,BB,"1846","Svelvik u. skole - Berger kafe",3,,FFFFFF,000000
+7864,BB,"1847","Svelvik u. skole - Svelvik u. skole",3,,FFFFFF,000000
+7865,BB,"1848","Tangen fjordpark - Mariås",3,,FFFFFF,000000
+7866,BB,"1849","Berger kafe - Svelvik u. skole",3,,FFFFFF,000000
+7867,BB,"1850","Mariås - Svelvik u. skole",3,,FFFFFF,000000
+7868,BB,"1851","Mariås - Tangen fjordpark",3,,FFFFFF,000000
+7869,BB,"1852","Mariås - Tangen fjordpark",3,,FFFFFF,000000
+7870,BB,"1853","Mariås - Tangen fjordpark",3,,FFFFFF,000000
+7871,BB,"1854","Mariås - Svelvik u. skole",3,,FFFFFF,000000
+7872,BB,"1855","Berger kafe - Svelvik u. skole",3,,FFFFFF,000000
+7873,BB,"1856","Berger kafe - Svelvik u. skole",3,,FFFFFF,000000
+7874,BB,"1857","Tørkop - Svelvik u. skole",3,,FFFFFF,000000
+7875,BB,"1858","Berger kafe - Svelvik u. skole",3,,FFFFFF,000000
+7876,BB,"1859","Mariås - Svelvik u. skole",3,,FFFFFF,000000
+7877,BB,"1860","Mariås - Svelvik u. skole",3,,FFFFFF,000000
+7878,BB,"1900","Horten - Holmestrand stasjon",3,,FFFFFF,000000
+7879,BB,"1901","Holmestrand - Horten rutebilstasjon",3,,FFFFFF,000000
+7880,BB,"1902","Holmestrand - Horten rutebilstasjon",3,,FFFFFF,000000
+7881,BB,"1903","Røråstoppen skole - Hengsrød",3,,FFFFFF,000000
+7882,BB,"1904","Hof - Bergsåsen",3,,FFFFFF,000000
+7883,BB,"43","Bergsåsen - Hof",3,,FFFFFF,000000
+7884,BB,"1906","Kronlia - Gjøklep u. skole",3,,FFFFFF,000000
+7885,BB,"1910","Hof skole - Sundbyfoss",3,,FFFFFF,000000
+7886,BB,"1916","Hof skole - Sundbyfoss bru",3,,FFFFFF,000000
+7887,BB,"1918","Kronlia - Hof skole",3,,FFFFFF,000000
+7888,BB,"1927","Eplerød - Gjøklep u. skole",3,,FFFFFF,000000
+7889,BB,"1928","Gjøklep usk - Tømmeråstjernet",3,,FFFFFF,000000
+7890,BB,"1929","Gjøklep usk - Hallingsrød",3,,FFFFFF,000000
+7891,BB,"1930","Fossan - Kirkevold",3,,FFFFFF,000000
+7892,BB,"1932","Holmestrand stasjon - Gjøklep u. skole",3,,FFFFFF,000000
+7893,BB,"1933","Røråstoppen skole - Fossan",3,,FFFFFF,000000
+7894,BB,"1934","Re vg skole - Holmestrand stasjon",3,,FFFFFF,000000
+7895,BB,"1935","Ramnes skole - Fossan",3,,FFFFFF,000000
+7896,BB,"1936","Fossan - Kirkevold",3,,FFFFFF,000000
+7897,BB,"48","Gjøklep u. skole - Holmestrand stasjon",3,,FFFFFF,000000
+7898,BB,"1938","Fossan - Kirkevold",3,,FFFFFF,000000
+7899,BB,"1939","Holmestrand stasjon - Revetal u. skole",3,,FFFFFF,000000
+7900,BB,"48","Holmestrand - Holmestrand stasjon",3,,FFFFFF,000000
+7901,BB,"1944","Gjøklep u. skole - Hvitstein",3,,FFFFFF,000000
+7902,BB,"1945","Holmestrand stasjon - Kirkevold",3,,FFFFFF,000000
+7903,BB,"1946","Holmestrand stasjon - Bergsåsen",3,,FFFFFF,000000
+7904,BB,"1947","Eplerød - Botne skole",3,,FFFFFF,000000
+7905,BB,"1949","Ekeberg - Holmestrand stasjon",3,,FFFFFF,000000
+7906,BB,"1950","Kronlia - Hof skole",3,,FFFFFF,000000
+7907,BB,"1951","Holmestrand stasjon - Gjøklep u. skole",3,,FFFFFF,000000
+7908,BB,"1952","Hallingsrød - Botne skole",3,,FFFFFF,000000
+7909,BB,"1953","Gjøklep u. skole - Botne skole",3,,FFFFFF,000000
+7910,BB,"1955","Eplerød - Gjøklep u. skole",3,,FFFFFF,000000
+7911,BB,"1956","Kronlia - Gjøklep u. skole",3,,FFFFFF,000000
+7912,BB,"1957","Søndre Kleivan - Holmestrand vg. skole",3,,FFFFFF,000000
+7913,BB,"1958","Hvitstein - Gjøklep u. skole",3,,FFFFFF,000000
+7914,BB,"1959","Hof - Hof",3,,FFFFFF,000000
+7915,BB,"1960","Kirkevold - Fon skole",3,,FFFFFF,000000
+7916,BB,"1936","Fossan - Kirkevold",3,,FFFFFF,000000
+7917,BB,"48","Gjøklep u. skole - Holmestrand stasjon",3,,FFFFFF,000000
+7918,BB,"1938","Fossan - Kirkevold",3,,FFFFFF,000000
+7919,BB,"1939","Holmestrand stasjon - Revetal u. skole",3,,FFFFFF,000000
+7920,BB,"48","Holmestrand - Holmestrand stasjon",3,,FFFFFF,000000
+7921,BB,"1944","Gjøklep u. skole - Hvitstein",3,,FFFFFF,000000
+7922,BB,"1945","Holmestrand stasjon - Kirkevold",3,,FFFFFF,000000
+7923,BB,"1946","Holmestrand stasjon - Bergsåsen",3,,FFFFFF,000000
+7924,BB,"1947","Eplerød - Botne skole",3,,FFFFFF,000000
+7925,BB,"1949","Ekeberg - Holmestrand stasjon",3,,FFFFFF,000000
+7926,BB,"1950","Kronlia - Hof skole",3,,FFFFFF,000000
+7927,BB,"1951","Holmestrand stasjon - Gjøklep u. skole",3,,FFFFFF,000000
+7928,BB,"1952","Hallingsrød - Botne skole",3,,FFFFFF,000000
+7929,BB,"1953","Gjøklep u. skole - Botne skole",3,,FFFFFF,000000
+7930,BB,"1955","Eplerød - Gjøklep u. skole",3,,FFFFFF,000000
+7931,BB,"1956","Kronlia - Gjøklep u. skole",3,,FFFFFF,000000
+7932,BB,"1957","Søndre Kleivan - Holmestrand vg. skole",3,,FFFFFF,000000
+7933,BB,"1958","Hvitstein - Gjøklep u. skole",3,,FFFFFF,000000
+7934,BB,"1959","Hof - Hof",3,,FFFFFF,000000
+7935,BB,"1960","Kirkevold - Fon skole",3,,FFFFFF,000000
+8000,BB,"M1","Langesund - Gulsetsenteret",3,,FFFFFF,000000
+8001,BB,"M1","Langesund via Øvre/Langesund via Nedre - Gulset",3,,FFFFFF,000000
+8002,BB,"M2","Skjelsvik terminal - Falkum",3,,FFFFFF,000000
+8003,BB,"M3","Skjelsvik terminal - Skien stasjon",3,,FFFFFF,000000
+8004,BB,"P4","Herøya Ind.park - Skotfoss",3,,FFFFFF,000000
+8005,BB,"P5","Herre - Skien terminal",3,,FFFFFF,000000
+8006,BB,"P6","Åfoss-Ramberget - Jønnevald/Skien terminal",3,,FFFFFF,000000
+8007,BB,"P7","Rødmyr - Siljan",3,,FFFFFF,000000
+8008,BB,"P8","Skjelsvik terminal - Cocheplassen/Herre",3,,FFFFFF,000000
+8011,BB,"1","Høgås - Notodden skysstasjon",3,,FFFFFF,000000
+8012,BB,"2","Sjukehuset-Anundskås - Notodden skysstasjon",3,,FFFFFF,000000
+8013,BB,"3","H.I.T-Skogen-Lienvegen - Notodden skysstasjon",3,,FFFFFF,000000
+8014,BB,"4","Tuven-Heddal stavkyrkje-Kvantum - Notodden skysstasjon",3,,FFFFFF,000000
+8015,BB,"5","Tinnebyen-Tveiten - Notodden skysstasjon",3,,FFFFFF,000000
+8016,BB,"6","Kvantum-Yli-Tuven - Notodden skysstasjon",3,,FFFFFF,000000
+8101,BB,"101","Åmot - Grungebru/Haukeli",3,,FFFFFF,000000
+8102,BB,"102","Seljord - Fyresdal",3,,FFFFFF,000000
+8103,BB,"103","Ulefoss - Lunde",3,,FFFFFF,000000
+8104,BB,"104","Vrådal skisenter kryss/Slokviki - Skree/Krossli",3,,FFFFFF,000000
+8111,BB,"111","Ulefoss - Ulefoss skole",3,,FFFFFF,000000
+8113,BB,"113","Ulefoss-Skien - Landsmarka",3,,FFFFFF,000000
+8115,BB,"115","Norheim-Kåsa - Lunde",3,,FFFFFF,000000
+8116,BB,"116","Bø sentrum - Bø sentrum",3,,FFFFFF,000000
+8117,BB,"117","Ulefoss/Berget - Ulefoss senter",3,,FFFFFF,000000
+8121,BB,"121","Lunde - Folkestad skule",3,,FFFFFF,000000
+8122,BB,"122","Lunde - Lunde stasjon",3,,FFFFFF,000000
+8123,BB,"123","Bø skule - Bø sentrum",3,,FFFFFF,000000
+8127,BB,"127","Åmotsdal - Nutheim/Seljord",3,,FFFFFF,000000
+8131,BB,"131","Treungen/Åmli - Vrådal",3,,FFFFFF,000000
+8132,BB,"132","Høydalsmo/Vrådal rutebilstasjon - Dalen",3,,FFFFFF,000000
+8133,BB,"133","Brunkeberg - Seljord",3,,FFFFFF,000000
+8134,BB,"134","Kvitsund/Kviteseid sentrum - Bergstod",3,,FFFFFF,000000
+8135,BB,"135","Fjone skule/Tveit skule - Fjalestad/Heimdal",3,,FFFFFF,000000
+8136,BB,"136","Treungen rutebilstasjon - Felle",3,,FFFFFF,000000
+8140,BB,"140","Seljord rutebilstasjon - Ulefoss-Lunde",3,,FFFFFF,000000
+8141,BB,"141","Dalen skuler/Dalen rutebilstasjon - Bergland/Krossli",3,,FFFFFF,000000
+8142,BB,"142","Dalen - Åmot",3,,FFFFFF,000000
+8143,BB,"143","Åmot - Rjukan/Vierli",3,,FFFFFF,000000
+8144,BB,"144","Rauland - Varland",3,,FFFFFF,000000
+8145,BB,"145","Dalen - Byrte",3,,FFFFFF,000000
+8146,BB,"146","Edland - Arabygdi",3,,FFFFFF,000000
+8147,BB,"147","Åmot - Kostveit",3,,FFFFFF,000000
+8148,BB,"8148","Rauland - Vå",3,,FFFFFF,000000
+8150,BB,"150","Høydalsmo/Åmot - Lårdal",3,,FFFFFF,000000
+8151,BB,"151","Rauland - Høydalsmo",3,,FFFFFF,000000
+8162,BB,"162","Breivik - Fyresdal",3,,FFFFFF,000000
+8163,BB,"163","Kleivgrend - Fyresdal",3,,FFFFFF,000000
+8200,BB,"200","Stavsro - Gaustablikk",3,,FFFFFF,000000
+8209,BB,"209","Austbygde/Dale Bakhus - Våer/Mæl rasteplass",3,,FFFFFF,000000
+8281,FF,"281","Sandøya brygge - Brevik",4,,FFFFFF,000000
+8282,FF,"282","Fjordbåt Brevik- Brevik ",4,,FFFFFF,000000
+8301,BB,"301","Seljord - Notodden",3,,FFFFFF,000000
+8305,BB,"305","Tuddal - Notodden",3,,FFFFFF,000000
+8312,BB,"312","Gransherad - Notodden",3,,FFFFFF,000000
+8313,BB,"313","Lisleherad/Gransherad - Notodden",3,,FFFFFF,000000
+8321,BB,"321","Bø stasjon - Roheim kryss",3,,FFFFFF,000000
+8322,BB,"322","Lunde - Bø",3,,FFFFFF,000000
+8323,BB,"323","Bø - Notodden",3,,FFFFFF,000000
+8459,BB,"459","Stathelle - Kragerø",3,,FFFFFF,000000
+8460,BB,"460","Åby/Trosby kryss - Kjønnøya Hafsund",3,,FFFFFF,000000
+8462,BB,"462","Rønholt skole - Rørholt",3,,FFFFFF,000000
+8501,BB,"501","Fossing/Helle - Kragerø rutebilstasjon/Helle",3,,FFFFFF,000000
+8502,BB,"502","Farsjø - Kragerø rutebilstasjon/Tangen",3,,FFFFFF,000000
+8504,BB,"504","Kjølebrønd- Tangen ",3,,FFFFFF,000000
+8506,BB,"506","Bybuss Kragerø - Bybuss Kragerø",3,,FFFFFF,000000
+8507,BB,"507","Bybuss Lovisenberg - Kragerø skole",3,,FFFFFF,000000
+8601,BB,"601","Skien terminal - Drangedal",3,,FFFFFF,000000
+8602,BB,"602","Treungen rutebilstasjon/Gautefall hotell - Drangedal",3,,FFFFFF,000000
+8603,BB,"603","Dale/Grova - Drangedal",3,,FFFFFF,000000
+8604,BB,"604","Ettestad - Drangedal",3,,FFFFFF,000000
+8605,BB,"605","Norbø - Bø skule Tørdal",3,,FFFFFF,000000
+8606,BB,"606","Oseid - Drangedal",3,,FFFFFF,000000
+8607,BB,"607","Kragerø - Drangedal",3,,FFFFFF,000000
+8609,BB,"609","Tangen - Kragerø via Helle",3,,FFFFFF,000000
+8610,BB,"610","Eskiltgrenda/Kroken skole - Skjelbreid",3,,FFFFFF,000000
+8701,BB,"701","Portør - Stabbestad ferjekai",3,,FFFFFF,000000
+8702,BB,"702","Skåtøy Korset brygge - Skåtøyroa ferjekai",3,,FFFFFF,000000
+8710,FF,"710","Kragerø - Kragerø ferjekai",4,,FFFFFF,000000
+8711,FF,"711","Kragerø - Kragerø ferjekai",4,,FFFFFF,000000
+8801,BB,"S1","Kjørbekk/Stathelle - Skien terminal",3,,FFFFFF,000000
+8802,BB,"S2","Svanen skole - Varpet",3,,FFFFFF,000000
+8803,BB,"S3","Skogmo vg. skole/Tveten skole - Skien terminal Landmannstorget/Porsgrunn terminal",3,,FFFFFF,000000
+8804,BB,"S04","Skotfoss-Dalsbygda/Kanalen - Gulsetsenteret",3,,FFFFFF,000000
+8805,BB,"S05","Furuheim - Fylkeshuset",3,,FFFFFF,000000
+8806,BB,"S06","Mæla skole - Ramberget",3,,FFFFFF,000000
+8807,BB,"S07","Midtbygda skole - Siljan",3,,FFFFFF,000000
+8881,BB,"81","Langangen - Porsgrunn terminal",3,,FFFFFF,000000
+8882,BB,"82","Bjønnes brygge - Porsgrunn terminal",3,,FFFFFF,000000
+8885,BB,"85","Ås - Skien terminal",3,,FFFFFF,000000
+8887,BB,"87","Brevik - Bamble vg. skole/Rugtvedtmyra",3,,FFFFFF,000000
+8888,BB,"88","Rugtvedtmyra/Stathelle - Nenset bro",3,,FFFFFF,000000
+8889,BB,"89","Stathelle barneskole - Krabberødstrand/Odins vei Asvall",3,,FFFFFF,000000
+8891,BB,"91","Skauenvegen - Skifjell",3,,FFFFFF,000000
+8892,BB,"92","Skien terminal - Skyer",3,,FFFFFF,000000
+8893,BB,"93","Skien terminal Landmannstorget - Fjelldalen",3,,FFFFFF,000000
+8894,BB,"94","Skien terminal Landmannstorget - Godal",3,,FFFFFF,000000
+8895,BB,"95","Skien terminal Landmannstorget - Valebø",3,,FFFFFF,000000
+8896,BB,"96","Stavdal - Melum",3,,FFFFFF,000000
+8897,BB,"97","Sandvannskrysset - Rognsbru/Kilebygda",3,,FFFFFF,000000
+8898,BB,"98","Siljan skole - Svartangen",3,,FFFFFF,000000
+8899,BB,"99","Snurråsen - Hogstad",3,,FFFFFF,000000
+8901,BB,"M1N","Langesund via Øvre - Gulset",3,,FFFFFF,000000
+8902,BB,"M2N","Skjelsvik terminal - Falkum",3,,FFFFFF,000000
+8903,BB,"M3N","Skjelsvik terminal - Skien stasjon",3,,FFFFFF,000000
+8985,BB,"W185","Notodden - Rjukan",3,,FFFFFF,000000
+9101,TT,"L1","Spikkestad/Asker - Lillestrøm",2,,FFFFFF,000000
+9102,TT,"L2","Ski - Stabekk",2,,FFFFFF,000000
+9103,TT,"L3","Jaren - Oslo S",2,,FFFFFF,000000
+9110,TT,"R10","Lillehammer - Drammen",2,,FFFFFF,000000
+9111,TT,"R11","Skien/Larvik - Eidsvoll",2,,FFFFFF,000000
+9112,TT,"L12","Kongsberg - Eidsvoll",2,,FFFFFF,000000
+9113,TT,"L13","Dal - Drammen",2,,FFFFFF,000000
+9114,TT,"L14","Kongsvinger - Asker",2,,FFFFFF,000000
+9120,TT,"R20","Halden - Oslo S",2,,FFFFFF,000000
+9121,TT,"L21","Moss - Stabekk",2,,FFFFFF,000000
+9122,TT,"L22","Mysen - Skøyen",2,,FFFFFF,000000
+9130,TT,"R30","Gjøvik - Oslo S",2,,FFFFFF,000000
+9132,RB,"1132","Vestby stasjon - Hølen via Garder",3,,FFFFFF,000000
+9152,TT,"L2X","Ski - Stabekk/Oslo S",2,,FFFFFF,000000
+9161,TT,"R11X","Skien - Oslo S",2,,FFFFFF,000000
+9164,TT,"L14X","Kongsvinger - Oslo S",2,,FFFFFF,000000
+9170,TT,"R20","Halden- Oslo Sentralstasjon ",2,,FFFFFF,000000
+9171,RB,"1171","Vestby stasjon- Drøbak ",3,,FFFFFF,000000
+9172,TT,"L22X","Mysen/Rakkestad - Oslo S",2,,FFFFFF,000000
+9201,FT,"FT","Oslo Lufthavn - Drammen",2,,FFFFFF,000000
+9211,TT,"R11E","Skien - Oslo S/Lillestrøm",2,,FFFFFF,000000
+9221,TT,"R21","Trondheim - Oslo S",2,,FFFFFF,000000
+9222,TT,"R22","Åndalsnes - Dombås",2,,FFFFFF,000000
+9225,TT,"R25","Trondheim - Hamar",2,,FFFFFF,000000
+9241,TT,"R41","Bergen - Oslo S",2,,FFFFFF,000000
+9250,TT,"R50","Stavanger - Oslo S",2,,FFFFFF,000000
+9252,TT,"R52","Porsgrunn - Notodden",2,,FFFFFF,000000
+9331,RB,"1331","Bru-Siggerud - Siggerud ",3,,FFFFFF,000000
+9333,RB,"1333","Kråkstad skole - Bjastad via Nes",3,,FFFFFF,000000
+9371,RB,"1371","Ski næringspark - Ski stasjon",3,,FFFFFF,000000
+9431,RB,"1431","Nordby skole - Kjærnes",3,,FFFFFF,000000
+9432,RB,"1432","Nordby skole - Ås",3,,FFFFFF,000000
+9433,RB,"1433","Kaxrud - Kroer skole",3,,FFFFFF,000000
+9434,RB,"1434","Vestbygda/Brønnerud-Holstad - Ås u. skole",3,,FFFFFF,000000
+9435,RB,"1435","Dyster/Eldor - Rustad skole",3,,FFFFFF,000000
+9436,RB,"1436","Nordby skole - TusenFryd",3,,FFFFFF,000000
+9531,RB,"1531","Hallangen via Blylaget - Dal skole",3,,FFFFFF,000000
+9533,RB,"1533","Dyrløkke - Heer",3,,FFFFFF,000000
+9572,RB,"1572","Frogn vgs. - Ski skole",3,,FFFFFF,000000
+9631,RB,"1631","Alværn - Hellvik",3,,FFFFFF,000000
+9632,RB,"1632","Alværn - Blylaget",3,,FFFFFF,000000
+9672,RB,"1672","Nesodden vgs - Fagerstrand",3,,FFFFFF,000000
+9872,RB,"872x","Fjellsrud skole - Solvangveien",3,,FFFFFF,000000
+9919,RB,"1919","Skui skole - Skui skole",3,,FFFFFF,000000
